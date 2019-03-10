@@ -1,7 +1,7 @@
-$Introduction,
+$Introduction,,,
 Guideline Use,"The following guidelines have been written while taking into account the local population and resources most readily available to our organization. Whenever possible, the guidelines should be followed as written. However, patients should always be treated individually. At time, it may be appropriate to stray from these guidelines for individual patients or if specific resources are low.
 
-The following guidelines will cover the treatment of the most common presentations that will be seen in our clinics. As you will discover, practicing medicine in a remote setting requires a different approach. The following guidelines were written with evidence based medicine, as well as with consideration of what is practically available and possible in our setting. Please discuss patients with our Lead Medical Providers, who have experience treating patients in our unique setting. Even relatively common conditions may be treated differently in our setting for a variety of reasons. The Lead Medical Providers are there to ensure that the treatment each of our patients receives, meets Floating Doctors standards. Treatment plans may differ between the communities also, depending on the local resources and closest health care facilities."
+The following guidelines will cover the treatment of the most common presentations that will be seen in our clinics. As you will discover, practicing medicine in a remote setting requires a different approach. The following guidelines were written with evidence based medicine, as well as with consideration of what is practically available and possible in our setting. Please discuss patients with our Lead Medical Providers, who have experience treating patients in our unique setting. Even relatively common conditions may be treated differently in our setting for a variety of reasons. The Lead Medical Providers are there to ensure that the treatment each of our patients receives, meets Floating Doctors standards. Treatment plans may differ between the communities also, depending on the local resources and closest health care facilities.",,
 General Treatment Principles,"We ask that you:
 
     - Follow the tratment guidelines for each condition to determine the first line treatment determined through careful consideration of this population and our resources.
@@ -14,12 +14,12 @@ General Treatment Principles,"We ask that you:
         - Any special instructions (i.e., time of day to take, with food, etc.)
     - Go over each script verbally as not all patients are able to read written Spanish.
     - Record all prescriptions very clearly in the management section of the patient file and code appropriately.
-"
-,
-$Common Presentations,
-2.1 Fever,
+",,
+,,,
+$Common Presentations,,,
+2.1 Fever,,,
 Presentation,"- Usually present with subjective fever that can be taken as genuine in this setting
-- Chills, rigors, sepsis"
+- Chills, rigors, sepsis",,
 Causes,"Although the fever is frequently of viral origin, serious illness must be excluded1
     - Viral, bacterial, or parasitic infection
     - Pneumonia
@@ -28,16 +28,17 @@ Causes,"Although the fever is frequently of viral origin, serious illness must b
     - Malaria (less likely)
     - Bacterial meningitis
     - Skin infections
-    - Malignancy"
+    - Malignancy",,"¹
+"
 Investigations,"- Full intake, including respiratory rate and heart rate.
 - Establish pattern and duration of fever.
 - For children:
     - Pay attention to skin, throat, ears, chest to identify source of infection.
     - Enquire about gastrointestinal symptoms and seizures.
-    - Urine test."
+    - Urine test.",,
 Diagnosis,"- Temperature >38 degrees C (100.4 degrees F)
 
-Axillary temperature underestimates core body temperature by approximately 0.5 degrees Celsius. 2 Therefore, add 0.5 degrees Celsius to any axillary measurements."
+Axillary temperature underestimates core body temperature by approximately 0.5 degrees Celsius. 2 Therefore, add 0.5 degrees Celsius to any axillary measurements.",,
 Management⁸,"Infants (aged 0-28 days)
     - “All febrile neonates aged 0-28 days old should be hospitalized for presumed sepsis and treated with antibiotics pending culture results (48 hours).3,4”
 
@@ -67,9 +68,9 @@ Pharmacological Treatment (consult BNF or BNF for children)
 First line: Paracetamol/Acetaminophen
 Second line: Ibuprofen
 
-** Please avoid maximum dosing where appropriate. Higher dosing is not recommended in this region due to chronic dehydration and renal impairment **"
-,
-2.2 Headache,
+** Please avoid maximum dosing where appropriate. Higher dosing is not recommended in this region due to chronic dehydration and renal impairment **",,
+,,,
+2.2 Headache,,,
 Causes,"In our setting one of the most common causes is dehydration9.
 Awareness of this and advice to patients to increase oral intake is therefore vital.
 Other causes include10:
@@ -80,7 +81,7 @@ Primary Headache
     - Cluster headache
 
 Secondary Headache
-The list of causes of secondary headaches is exhaustive and can be found elsewhere9,11. It is included but not limited to: meningitis, giant cell arteritis, sinusitis, visual problems."
+The list of causes of secondary headaches is exhaustive and can be found elsewhere9,11. It is included but not limited to: meningitis, giant cell arteritis, sinusitis, visual problems.",,
 Investigations,"History
     - Establish patient’s normal fluid intake. Most of population drink only 1-3 glasses of water a day, often while working in the sun!
     - A good history is critical to the diagnosis and management of headache. Particular attention must be paid to red flags12:
@@ -96,12 +97,12 @@ Investigations,"History
         - Neurologic symptoms or signs
 
 Exam
-Normal intake will be performed. In case of red flags, ensure a full neurological exam is performed - including fundoscopy (to rule out papilloedema)."
+Normal intake will be performed. In case of red flags, ensure a full neurological exam is performed - including fundoscopy (to rule out papilloedema).",,
 Diagnosis,"Whilst access to investigations during Floating Doctors’ clinics will be somewhat limited, a simple history and examination will be ascertain the cause in most scenarios.
 
 If any red flags or concerning features are elicited, please discuss with a Lead Medical Provider. Depending on the urgency of the situation, we can:
     - Arrange an emergency hospital appointment.
-    - Attempt to expedite secondary care at a later date."
+    - Attempt to expedite secondary care at a later date.",,
 Management,"1. Simple Dehydration Headache
 Health Education13
     - Encourage ways to increase fluid intake (i.e., coconut juice, filtered/boiled water, soups, fruit, vegetables)
@@ -121,12 +122,12 @@ Pharmacological Treatment
     - Acute: Combination of an NSAID and an antiemetic (i.e., ibuprofen and metoclopramide)
     - Chronic: Regular prophylactic medication can be considered if the patient is having more than 2 migraines per month13–15
         - First line: Propranolol
-        - Consult BNF for dosage and contraindications"
-,
-2.3 Musculoskeletal Pain,
-Causes,"“Musculoskeletal pain is a known consequence of repetitive strain, overuse, and work-related musculoskeletal disorders. These injuries include a variety of disorders that cause pain in bones, joints, muscles, or surrounding structures. The pain can be acute or chronic, focal or diffuse. Low back pain is the most common example of chronic musculoskeletal pain. Other examples include tendonitis and tendinosis, neuropathies, myalgia, and stress fractures.16”"
+        - Consult BNF for dosage and contraindications",,
+,,,
+2.3 Musculoskeletal Pain,,,
+Causes,"“Musculoskeletal pain is a known consequence of repetitive strain, overuse, and work-related musculoskeletal disorders. These injuries include a variety of disorders that cause pain in bones, joints, muscles, or surrounding structures. The pain can be acute or chronic, focal or diffuse. Low back pain is the most common example of chronic musculoskeletal pain. Other examples include tendonitis and tendinosis, neuropathies, myalgia, and stress fractures.16”",,
 Presentation,"- Many patients describe a long history of generalized muscular pain, worse after work
-- Knee, back, shoulder pathology is common"
+- Knee, back, shoulder pathology is common",,
 Investigations,"History
     - A thorough history can often elucidate a likely cause. Exclude history of direct trauma, deformity, or acute pathology (ongoing infection/ septic joint).
     - For back pain, pay particular attention to red flag features 16,17:
@@ -142,7 +143,7 @@ Investigations,"History
 
 Examination
     - Depending on the affected joint, it is necessary to perform a focused examination to guide management and follow up
-    - If back pain is associated with bowel/bladder incontinence or saddle anaesthesia, a digital rectal exam can be extremely valuable 18. Similarly, neurological examination can be useful if a patient has neurological symptoms."
+    - If back pain is associated with bowel/bladder incontinence or saddle anaesthesia, a digital rectal exam can be extremely valuable 18. Similarly, neurological examination can be useful if a patient has neurological symptoms.",,
 Management,"Health Education 19
     - Give appropriate exercises and stretches; physiotherapy can be extremely beneficial.
     - Heat packs can be made easily with a cloth and warm water.
@@ -156,10 +157,10 @@ Pharmacological Treatment
 Depending on availability we may have access to:
 Topical NSAIDs, Depo Medrol injections
 
-If any alarming symptoms are elicited, hospital work-up either as an inpatient (in emergencies) or as an outpatient can be facilitated."
-,
-2.4 Rash,
-Presentation,"Patients, typically children, present with acute or chronic rashes. Often these are nonspecific and the underlying diagnosis can seem unclear."
+If any alarming symptoms are elicited, hospital work-up either as an inpatient (in emergencies) or as an outpatient can be facilitated.",,
+,,,
+2.4 Rash,,,
+Presentation,"Patients, typically children, present with acute or chronic rashes. Often these are nonspecific and the underlying diagnosis can seem unclear.",,
 Causes,"Common types of skin rash that we encounter include:
     - Scabies
     - Impetigo
@@ -168,8 +169,8 @@ Causes,"Common types of skin rash that we encounter include:
     - Insect bites
     - Cutaneous leishmaniasis
 
-It is important to be aware that skin rash can be due to more sinister causes20. These include meningococcal disease, malignancy, non-accidental injury or TB."
-Investigations,"Children in the communities are usually fully vaccinated, and often the mothers will have a card to prove it. Thankfully this makes a lot of the more serious infections less likely. If you are in doubt regarding vaccinations as the mother for the child's card or ask the Lead Medical Provider if the community in question has a good vaccine program (some communities have less access than others unfortunately)."
+It is important to be aware that skin rash can be due to more sinister causes20. These include meningococcal disease, malignancy, non-accidental injury or TB.",,
+Investigations,"Children in the communities are usually fully vaccinated, and often the mothers will have a card to prove it. Thankfully this makes a lot of the more serious infections less likely. If you are in doubt regarding vaccinations as the mother for the child's card or ask the Lead Medical Provider if the community in question has a good vaccine program (some communities have less access than others unfortunately).",,
 Diagnosis,"History 21
     - Past medical history, family history, occupation, hobbies, drugs.
     - Duration of lesions
@@ -187,7 +188,7 @@ Do a thorough examination. If required, consider using the private room
 (PICTURE)
 Taken from 22
 
-Another option is to take a photograph of the lesion (provided the patient/ family consent) that can be uploaded to SERMO for secondary advice."
+Another option is to take a photograph of the lesion (provided the patient/ family consent) that can be uploaded to SERMO for secondary advice.",,
 Management,"This will vary depending on the underlying cause.
 
 To see if the started treatment is effective you can ask the patient to return to the Friday Follow-Up on single-day clinics (or Thursday morning on multi-day clinics). . Special therapies may be acquired and brought back during Follow-Up if they aren’t ones we stock regularly.
@@ -211,15 +212,15 @@ Bacterial - Triple antibiotic cream, consider systemic antibiotics if necessary
 Fungal - Topical Clotrimazole 1% or Nystatin, oral antifungals may also be used
 
 Non-Infective
-Hydrocortisone cream can be used"
-,
-2.5 Dehydration,
+Hydrocortisone cream can be used",,
+,,,
+2.5 Dehydration,,,
 Presentation,"There are numerous signs and symptoms of dehydration. These include but are not limited to24:
     - Dry mouth/ lips
     - Lack of tears
     - Not keeping any fluid down
     - Not making urine/ dry nappies
-    - Lethargic/ confused"
+    - Lethargic/ confused",,
 Causes 24,"** NEEDS TO BE LOOKED OVER -GP **
 
 Common causes that we often see are listed in bold
@@ -227,11 +228,11 @@ Gastrointestinal
 Gastroenteritis Gastrointestinal obstruction - eg, pyloric stenosis: often associated with poor intake, vomiting. Bowel ischaemia may cause extensive capillary leak and shock.Oropharyngeal (pain may severely limit oral intake)
 Mouth ulcers, stomatitis, pharyngitis, tonsillitisEndocrine
 Diabetic ketoacidosis (DKA) Diabetes insipidus: excessive output of very dilute urine. Thyrotoxicosis: increased insensible losses and diarrhoea. Congenital adrenal hyperplasia (CAH)Others
-Febrile illness: fever causes increased insensible fluid losses. Burns: fluid losses may be extreme and require aggressive fluid management. Heat stroke Cystic fibrosis: excessive sodium and chloride losses in sweat."
+Febrile illness: fever causes increased insensible fluid losses. Burns: fluid losses may be extreme and require aggressive fluid management. Heat stroke Cystic fibrosis: excessive sodium and chloride losses in sweat.",,
 Investigations,"Assess the level of dehydration.
 
 ** NEEDS A TABLE ----- MAYBE A PICTURE OF THE TABLE? **
-Mild Moderate Severe Weight loss Less the 5% 5-10% >10% General condition Well, alert Restless, irritable Unconscious Eyes normal sunken Sunken Mouth +tongue normal dry Very dry Pulse Rate normal fast Weak and fast Respiratory Rate normal increased Fast Capillary return Normal (<2secs) Moderate (>2secs) Severe (>3 secs) Skin pinch quick slow Very slow Thirst Drinks normally (not thirsty) Drinks eagerly (thirsty) Drinks poorly (not thirsty) Urine output Normal no of wet nappies Reduced number of wet nappies Poor"
+Mild Moderate Severe Weight loss Less the 5% 5-10% >10% General condition Well, alert Restless, irritable Unconscious Eyes normal sunken Sunken Mouth +tongue normal dry Very dry Pulse Rate normal fast Weak and fast Respiratory Rate normal increased Fast Capillary return Normal (<2secs) Moderate (>2secs) Severe (>3 secs) Skin pinch quick slow Very slow Thirst Drinks normally (not thirsty) Drinks eagerly (thirsty) Drinks poorly (not thirsty) Urine output Normal no of wet nappies Reduced number of wet nappies Poor",,
 Management 25–27,"General principles for diarrhoea and dehydration in infants/children:
 Tell mother/carer
 1. Give extra fluids
@@ -271,7 +272,7 @@ Sugar Salt Solution (Home remedy)29,30
     - ½ tsp salt
     - 6 tsp sugar
 
-"
+",,
 Complications,"Shock can result from hypoperfusion25,26.
 
 Arrange emergency transfer to secondary care25:
@@ -281,9 +282,9 @@ Arrange emergency transfer to secondary care25:
     - Tachycardia/ Tachypnoea
     - Weak peripheral pulses.
     - Prolonged capillary refill time.
-    - Hypotension."
-,
-2.6 Malnutrition,
+    - Hypotension.",,
+,,,
+2.6 Malnutrition,,,
 Presentation,"Malnutrition refers to a nutrient deficiency state of protein, energy or micronutrients31.
 
 In adults, the Body Mass Index can be used to detect malnutrition. A BMI below 18.5 is classed as underweight32. Beware of solely using this to diagnose malnutrition however as oedema can mask weight loss in some circumstances33. Other signs in adults include34: somnolescence, frequent infections, delayed wound healing and poor concentration.
@@ -296,38 +297,38 @@ For children, the WHO criteria for identifying children with severe malnutrition
 Look for signs of the following 3 clinical syndromes (mixed pictures may occur)36:
     - “Marasmus: Obvious loss of weight with gross reduction in muscle mass, especially from limb girdles. Subcutaneous fat virtually absent. Thin, atrophic skin lies in folds. Alopecia and brittle hair. Sometimes, appearance of lanugo hair.
     - Kwashiorkor: Usually occurs in children aged 1-2 years with changing hair colour to red, grey or blonde. Moon facies, swollen abdomen (pot belly), hepatomegaly and pitting oedema. Dry, dark skin which splits were stretched over pressure areas, to reveal pale areas.
-    - Nutritional dwarfism: Patient is small for age. Face shape may be affected by size of teeth.”"
-Causes,"There are a number of risk factors that place individuals at a higher risk of malnutrition. These include36,37: extremely young age, poverty, coexisting chronic illness or developmental delay and mental health problems."
+    - Nutritional dwarfism: Patient is small for age. Face shape may be affected by size of teeth.”",,
+Causes,"There are a number of risk factors that place individuals at a higher risk of malnutrition. These include36,37: extremely young age, poverty, coexisting chronic illness or developmental delay and mental health problems.",,
 Investigations,"Use Children Growth Charts to guide your diagnosis.
 Calculate the patient’s Body Mass Index.
 The Malnutrition Universal Screening Tool screening tool can also be used to identify malnutrition risk38:
 
-*** PICTURE HERE ***"
+*** PICTURE HERE ***",,
 Management,"General advice on the importance of nutritional intake is vital.
 
 The provision of multivitamins in children boosts micronutrient intake39 and can have positive effects on growth40. As such we routinely give multivitamins to all children.
 
 The use of supplements is more useful than advice alone in the elderly41. From time to time we have Mannapack supplements. These can also be beneficial.
 
-If children <5 are (severely) malnourished please consult a Lead Medical Provider about the option of Fundacion NutreHogar."
+If children <5 are (severely) malnourished please consult a Lead Medical Provider about the option of Fundacion NutreHogar.",,
 "Complications 40,42","- “Impaired immune response and increased risk of infection.
 - Reduced muscle strength.
 - Impaired wound healing.
 - Impaired psychosocial function, including poor cognition and increased dependency.
 - Impaired recovery from illness and surgery.
 - Poorer health outcomes.
-- Poor quality of life”"
-,
-$Respiratory,
-** TABLES **,** 2 TABLES HERE ---- MAYBE PICTURE? **
-3.1 Upper Respiratory Tract Infection,
+- Poor quality of life”",,
+,,,
+$Respiratory,,,
+** TABLES **,** 2 TABLES HERE ---- MAYBE PICTURE? **,,
+3.1 Upper Respiratory Tract Infection,,,
 Presentations,"Common signs/symptoms include47
     - Nasal discharge/ obstruction
     - Sneezing
     - Sore throat
     - General malaise
     - Cough
-    - Hoarseness, loss of taste and smell, mild burning of the eyes and a feeling of pressure in the ears or sinuses, due to obstruction and/or mucosal swelling, may also occur. Headache and fever tend to be less common symptoms."
+    - Hoarseness, loss of taste and smell, mild burning of the eyes and a feeling of pressure in the ears or sinuses, due to obstruction and/or mucosal swelling, may also occur. Headache and fever tend to be less common symptoms.",,
 Causes,"Adults
     - Allergic versus nonallergic rhinitis
     - Pharyngitis
@@ -339,7 +340,7 @@ Children
     - In addition to the above list, consider a foreign body in the nose. The discharge is unilateral, purulent, foul-smelling and blood-stained.
 
 Infants
-    - Consider the possibility of more serious conditions such as meningitis, septicaemia, pneumonia."
+    - Consider the possibility of more serious conditions such as meningitis, septicaemia, pneumonia.",,
 Management,"Health Education
     - Reassure parents and advise to increase fluid intake
     - Advise patients/ families about the usual course of the illness. The UK National Institute for Health and Care Excellence (NICE) states that the average total length of illness is 10 days.
@@ -350,26 +351,26 @@ Pharmacological Treatment
     - Acetaminophen
     - Nyquil
     - Sodium Chloride 0.9% to clear nose
-    - Apply Vicks balsam to chest"
-,
-3.2 Lower Respiratory Tract Infection,
-Presentation,"The presentation of these conditions will depend on age, infecting organism and site of infection."
+    - Apply Vicks balsam to chest",,
+,,,
+3.2 Lower Respiratory Tract Infection,,,
+Presentation,"The presentation of these conditions will depend on age, infecting organism and site of infection.",,
 Causes 49,"Lower respiratory tract infection (LRTI) is infection below the level of the larynx and may be taken to include:
     - Bronchiolitis (3.2.1)
     - Pneumonia (3.2.2)
-    - Bronchitis"
+    - Bronchitis",,
 Investigations,"All patients should have the following measured:
     - Respiratory rate
     - Heart rate
     - Oxygen saturations
-    - Blood pressure"
-,
-3.2.1 Lower Respiratory Tract Infection - Bronchiolitis,
+    - Blood pressure",,
+,,,
+3.2.1 Lower Respiratory Tract Infection - Bronchiolitis,,,
 "Presentation 49,50","- Severe viral infection of the LRTI in children <2 years
 - Begins as clear nasal discharge for 1 – 2 days, followed by cough and increased work of breathing
-- Symptoms will worsen until day 4-5 until begin to resolve"
+- Symptoms will worsen until day 4-5 until begin to resolve",,
 Causes51,"Most common cause is respiratory syncytial virus (RSV)
-    - Transmitted through droplet inhalation or contact with contaminated secretions"
+    - Transmitted through droplet inhalation or contact with contaminated secretions",,
 Management,"Health Education52
     - Explain to mother the timeline of the illness and reassure her
     - Most children able to be manage at home with symptomatic treatment only
@@ -390,13 +391,13 @@ Indications for admission53
 Supportive Management
     - Increase oral fluids
     - Small, frequent feeds
-    - Monitor for respiratory distress"
-,
-3.2.2 Lower Respiratory Tract Infection - Pneumonia,
+    - Monitor for respiratory distress",,
+,,,
+3.2.2 Lower Respiratory Tract Infection - Pneumonia,,,
 Presentation,"- Cough, difficulty breathing, high fevers
-- Look for signs of respiratory distress, dehydration, conscious state"
+- Look for signs of respiratory distress, dehydration, conscious state",,
 Causes,"- Viral
-- Bacterial"
+- Bacterial",,
 Management,"Calculate the patient’s CRB-65 score in conjunction with clinical judgement (we don’t have urea levels readily available).
 
 A 4-point score system is used, one point for each of:
@@ -419,10 +420,10 @@ Pharmalogical treatment (consult the BNF/BNF for Children) 51,54
 For mild pneumonia
     - Offer a 5-7 day course of Amoxicillin, reserving a macrolide or tetracycline for patients allergic to penicillin. Consider extending the course/hospitalization if there is no improvement at Friday follow up.
     - Add flucloxacillin if staphylococcal infection is suspected - e.g., in influenza or measles.
-    - Consider a macrolide if an atypical pneumonia is suspected."
-,
-,
-3.3 Chronic Asthma,
+    - Consider a macrolide if an atypical pneumonia is suspected.",,
+,,,
+,,,
+3.3 Chronic Asthma,,,
 Presentation55,"Features that increase the probability of asthma in adults include56,57:
     - More than one of the following symptoms: wheeze, breathlessness, chest tightness and cough, particularly if:
         - Symptoms are worse at night and in the early morning.
@@ -432,7 +433,7 @@ Presentation55,"Features that increase the probability of asthma in adults inclu
     - Family history of asthma and/or atopic disorder.
     - Widespread wheeze heard on auscultation of the chest.
     - Otherwise unexplained low forced expiratory volume in one second (FEV1) or peak expiratory flow (historical or serial readings).
-    - Otherwise unexplained peripheral blood eosinophilia."
+    - Otherwise unexplained peripheral blood eosinophilia.",,
 "Investigations (adapted from 30,33)","History
 Undertake a structured clinical assessment to assess the initial probability of asthma. This should be based on:
     - History of recurrent episodes (attacks) of symptoms, ideally corroborated by variable peak flow when symptomatic and asymptomatic.
@@ -445,12 +446,12 @@ Exam
 'Not all asthma wheezes and all that wheezes is not asthma.'
     - Pay particular attention to pulse (which can be increased due to salbutamol use) and pattern of breathing.
     - Look for chest wall deformities
-    - Peak Flow (simple and effective investigation that plays more of a role in the follow up of known asthmatics)"
+    - Peak Flow (simple and effective investigation that plays more of a role in the follow up of known asthmatics)",,
 Diagnosis,"Care must be taken with the differential diagnosis58:
     - In children wheezy bronchitis may be mistaken for asthma.
     - In adults, COPD is the main alternative diagnosis (ask about smoking and exposure to causative dusts).
 
-Treat anyone presenting for the first time with a wheeze for potential tropical pulmonary eosinophilia with Albendazole59. This has the resultant effect of concomitant treatment of worms."
+Treat anyone presenting for the first time with a wheeze for potential tropical pulmonary eosinophilia with Albendazole59. This has the resultant effect of concomitant treatment of worms.",,
 Management (adapted from 56),"Management of chronic asthma
 
 Health Education
@@ -462,14 +463,14 @@ Health Education
 
 In severe cases, consider a short course of oral steroids and referral to hospital.
 
-In children it is important to be wary of the potential side effects that may ensue from chronic steroid use. These must be balanced against the benefits that will result from treatment. If you have any queries or concerns, please consult a Lead Medical Provider."
+In children it is important to be wary of the potential side effects that may ensue from chronic steroid use. These must be balanced against the benefits that will result from treatment. If you have any queries or concerns, please consult a Lead Medical Provider.",,
 Complications,"“Inadequate control of asthma leads to much morbidity and poor quality of life, with a high rate of working days lost and emergency hospital admissions. Complications mostly relate to acute exacerbations:
     - Pneumonia.
     - Pneumothorax.
     - Pneumomediastinum.
-    - Respiratory failure and arrest.”61"
-,
-3.4 Pulmonary Tuberculosis,
+    - Respiratory failure and arrest.”61",,
+,,,
+3.4 Pulmonary Tuberculosis,,,
 Presentation,"Pulmonary TB is the commonest initial presentation, however it may also be extra-pulmonary; tuberculosis meningitis, lymph node tuberculosis, spinal tuberculosis etc.
 The possibility of TB should be considered in any person with risk factors for TB exposure, who has suggestive symptoms 62,63. These include:
     - Fever
@@ -480,15 +481,15 @@ The possibility of TB should be considered in any person with risk factors for T
     - Weight loss
     - Hemoptysis
     - Clubbing
-    - Erythema nodosum"
+    - Erythema nodosum",,
 Causes (adapted from 62),"Pulmonary tuberculosis is an airborne infection caused by mycobacterium tuberculosis. Primary infection heals spontaneously in immunocompetent patients in 90% of cases.
 The following people are at high risk of active TB or reactivation of TB:
     - Older adults
     - Infants
     - People with weakened immune systems, for example due to HIV/AIDS, chemotherapy, diabetes, or medicines that weaken the immune system.
 
-Tuberculosis has been on the rise in Panama 62–64. In 2005, 1,565 cases were reported (48.5 per 100,000 population). The areas at greatest risk are the provinces of Kuna Yala (210 per 100,000 population), Ngöbe Buglé (152.6) and Bocas del Toro (107)."
-Investigations,"In cases where Tuberculosis is suspected, discuss with the Clinic Manager and Lead Medical Provider. Depending on the location of the patient, they can be investigated (and subsequently treated) for tuberculosis free of charge through MINSA (Ministerio de Salud)."
+Tuberculosis has been on the rise in Panama 62–64. In 2005, 1,565 cases were reported (48.5 per 100,000 population). The areas at greatest risk are the provinces of Kuna Yala (210 per 100,000 population), Ngöbe Buglé (152.6) and Bocas del Toro (107).",,
+Investigations,"In cases where Tuberculosis is suspected, discuss with the Clinic Manager and Lead Medical Provider. Depending on the location of the patient, they can be investigated (and subsequently treated) for tuberculosis free of charge through MINSA (Ministerio de Salud).",,
 Management,"Anti-Tuberculous medications are commenced in a hospital based setting. Our role at Floating Doctors is to act alongside the responsible health authorities.
 This can involve educating patients about the following:
     - Side effects of their medications and need for regular monitoring (particularly liver function tests).
@@ -496,25 +497,25 @@ This can involve educating patients about the following:
     - Requirement for family screening if other family members develop alarming symptoms.
     - The requirement to complete the course of therapy prescribed.
 
-Often patients can develop other chest symptoms alongside their tuberculosis (e.g. asthma). These must be addressed where appropriate and not simply brushed under the umbrella term ‘tuberculosis’."
+Often patients can develop other chest symptoms alongside their tuberculosis (e.g. asthma). These must be addressed where appropriate and not simply brushed under the umbrella term ‘tuberculosis’.",,
 Complications (taken from 62–65),"- Spinal pain: Back pain and stiffness are common complications of tuberculosis.
 - Joint damage: Tuberculous arthritis usually affects the hips and knees.
 - Meningitis: This can cause a lasting or intermittent headache that occurs for weeks. Mental changes also are possible.
 - Liver or kidney problems
-- Heart disorders - Rarely, tuberculosis can infect the tissues that surround your heart, causing inflammation and fluid collections that may interfere with your heart's ability to pump effectively."
-,
-$Gastrointestinal,
-Summary,"Gastrointestinal illnesses are very commonly seen in clinic, particularly acute gastroenteritis and gastrointestinal helminth infections. Ascariasis, ancylostomiasis and trichuriasis are some of the most common soil-transmitted helminths in Panama69,70. A big part of trying to prevent the number and severity of infections is to give health education alongside the prescribed medications. Advise patients to wash their hands after using the latrine and before eating, boil their water if they have no clean water supply, peel fruit and vegetables, and cook their meat thoroughly."
-4.1 Albendazole,
+- Heart disorders - Rarely, tuberculosis can infect the tissues that surround your heart, causing inflammation and fluid collections that may interfere with your heart's ability to pump effectively.",,
+,,,
+$Gastrointestinal,,,
+Summary,"Gastrointestinal illnesses are very commonly seen in clinic, particularly acute gastroenteritis and gastrointestinal helminth infections. Ascariasis, ancylostomiasis and trichuriasis are some of the most common soil-transmitted helminths in Panama69,70. A big part of trying to prevent the number and severity of infections is to give health education alongside the prescribed medications. Advise patients to wash their hands after using the latrine and before eating, boil their water if they have no clean water supply, peel fruit and vegetables, and cook their meat thoroughly.",,
+4.1 Albendazole,,,
 Description,"We routinely give patients and their families a 400 mg tablet of Albendazole for helminths every clinic. For children aged 1-2 years old, a single 200mg tablet can be given66. Albendazole shouldn’t be given to children under 1 year.
     - A single dose can treat ascariasis, eosinophilic enterocolitis due to A. caninum, Trichostrongylosis, Hookworm (Necator or Ancylostoma)67,68.
     - For suspected cases of enterobius vermicularis (pinworm), i.e. if they see worms in their stool - advise patients to take another dose 2 weeks after the first one71.
 
 Use in pregnancy69: Albendazole has been shown to have teratogenic and embryotoxic potential in rats and rabbits. Although high priority should be accorded to the treatment of pregnant women, albendazole should not be administered during the first trimester.
 
-Adverse reactions: Transient gastrointestinal discomfort and headache have occasionally been reported."
-4.2 Diarrhea,
-Presentation,"Diarrhea is the abnormal passage of loose or liquid stools more than three times daily and/or a volume of stool greater than 200 g/day72. Acute diarrhea is usually defined as that lasting less than four weeks and chronic diarrhea as that lasting more than four weeks. There are 2 clinical types, diarrhoea with blood (dysentery) and without (60% caused by viruses)."
+Adverse reactions: Transient gastrointestinal discomfort and headache have occasionally been reported.",,
+4.2 Diarrhea,,,
+Presentation,"Diarrhea is the abnormal passage of loose or liquid stools more than three times daily and/or a volume of stool greater than 200 g/day72. Acute diarrhea is usually defined as that lasting less than four weeks and chronic diarrhea as that lasting more than four weeks. There are 2 clinical types, diarrhoea with blood (dysentery) and without (60% caused by viruses).",,
 Causes73,"Infectious diarrhea can happen when:
     - Eating raw, undercooked, unwashed, or improperly handled meat, poultry products, dairy products, fruits, vegetables, shellfish, and seafood.
     - Drinking contaminated water or beverages.
@@ -534,8 +535,8 @@ Chronic (>4 weeks)
     - Bile acid malabsorption/diarrhoea.
     - Colonic: Diverticular disease, Colonic neoplasia, including colorectal cancer. Ulcerative colitis and Crohn's/ Microscopic colitis.
     - Small bowel: Coeliac disease, Crohn's disease, Lactose intolerance.
-    - Other causes such as chronic pancreatitis or endocrine causes such as hyperthyroidism and diabetes mellitus"
-Investigations,"Focus history taking on the duration of the illness (acute versus chronic), number of episodes per day and triggers. Specifically ask about whether or not blood and/or worms have been noted in the stool. Assess fluid status (see Dehydration section)."
+    - Other causes such as chronic pancreatitis or endocrine causes such as hyperthyroidism and diabetes mellitus",,
+Investigations,"Focus history taking on the duration of the illness (acute versus chronic), number of episodes per day and triggers. Specifically ask about whether or not blood and/or worms have been noted in the stool. Assess fluid status (see Dehydration section).",,
 Management,"Health education75
     - Rehydrate according to Dehydration section
     - Wash raw vegetables thoroughly.
@@ -569,14 +570,14 @@ Patients with persistent diarrhoea >14 days
 
 *we do not prescribe loperamide as we cannot rule out infectious diarrhoea in our setting.
 
-Always consider alternative diagnosis (especially in children); e.g. pneumonia, dengue, malaria, sepsis, UTI."
-Complications (taken from78),"Common complications are metabolic derangement, dehydration, sepsis and lactose intolerance."
-4.3 Dysentery,
-Presentation,"Dysentery is bloody diarrhoea, i.e. any diarrhoeal episode in which the loose or watery stools contain visible red blood79."
-Causes80,"Infections that can present with bloody diarrhoea include cytomegalovirus, Campylobacter jejuni, Salmonella spp., Escherichia coli, Vibrio parahaemolyticus, Shigella spp., Yersinia spp., Aeromonas spp., C. difficile, Entamoeba histolytica, schistosomiasis, Ebola virus."
-Investigations,In addition to the investigations that you would perform for a patient with diarrhea; please check patient’s Haemoglobin.
+Always consider alternative diagnosis (especially in children); e.g. pneumonia, dengue, malaria, sepsis, UTI.",,
+Complications (taken from78),"Common complications are metabolic derangement, dehydration, sepsis and lactose intolerance.",,
+4.3 Dysentery,,,
+Presentation,"Dysentery is bloody diarrhoea, i.e. any diarrhoeal episode in which the loose or watery stools contain visible red blood79.",,
+Causes80,"Infections that can present with bloody diarrhoea include cytomegalovirus, Campylobacter jejuni, Salmonella spp., Escherichia coli, Vibrio parahaemolyticus, Shigella spp., Yersinia spp., Aeromonas spp., C. difficile, Entamoeba histolytica, schistosomiasis, Ebola virus.",,
+Investigations,In addition to the investigations that you would perform for a patient with diarrhea; please check patient’s Haemoglobin.,,
 Diagnosis,"Shigella is the most frequent cause of dysentery. Infection with Shigella is generally self-limited; the average duration of diarrhea is seven days.
-Amoebic dysentery is much less common and should be considered if treatment for Shigella fails81. Amoebic dysentery often has a more gradual onset and you may consider the diagnosis if the dysentery has a longer history and the patient is well82."
+Amoebic dysentery is much less common and should be considered if treatment for Shigella fails81. Amoebic dysentery often has a more gradual onset and you may consider the diagnosis if the dysentery has a longer history and the patient is well82.",,
 Management,"Pharmalogical treatment
 Antibiotics have shown to decrease the duration of fever and diarrhea caused by Shigella about two days. Shortening the duration of bacterial shedding will reduce the risk of spread.
 
@@ -585,20 +586,20 @@ Follow the above principles, and for suspected Shigella67, give either:
         - Children >25kg and Adults: Ciprofloxacin 500mg twice a day for 3 days.
         - Children <25kg: Azithromycin once a day for 3 days. 
 
-Not all bloddy diarrhoea is infectious - always consider inflammatory bowel disease, malignancy and surgical conditions (diverticulitis and colitis)"
-Complications,"Common complications are metabolic derangement, dehydration, sepsis and lactose intolerance."
-4.4 Helminth,
+Not all bloddy diarrhoea is infectious - always consider inflammatory bowel disease, malignancy and surgical conditions (diverticulitis and colitis)",,
+Complications,"Common complications are metabolic derangement, dehydration, sepsis and lactose intolerance.",,
+4.4 Helminth,,,
 Presentation83,"Helminths are multicellular parasites with complex life cycles within and outside of human hosts. Patients can present themselves with symptoms of bloating, non specific abdominal pain, persistent/intermittent diarrhoea +/- nausea or vomiting. However patients are often asymptomatic.
 
-Whipworm (trichuriasis) specifically can cause loose stools containing mucus and/or blood, nocturnal stooling and rectal prolapse in the setting of heavy infection. Roundworm (ascariasis) is associated with transient respiratory problems in the beginning of infection. While the most common symptom of pinworm (enterobiasis) is perianal itching (predominantly at night)."
+Whipworm (trichuriasis) specifically can cause loose stools containing mucus and/or blood, nocturnal stooling and rectal prolapse in the setting of heavy infection. Roundworm (ascariasis) is associated with transient respiratory problems in the beginning of infection. While the most common symptom of pinworm (enterobiasis) is perianal itching (predominantly at night).",,
 Causes,"Roundworm, hookworm and whipworm are some of the most common soil-transmitted helminths in Panama69,70.
 Autoinfection occurs by water, food or hands contaminated with soil. Person-to-person transmission can occur by eating food touched by contaminated hands or by handling contaminated cloths, bed linens or other environmental surfaces. In addition, eggs (e.g. of pinworm) may become airborne, inhaled and swallowed. After ingestion eggs hatch and release larvae in the small intestine and the gastrointestinal tract and cause symptoms.
 
-Hookworm is usually transmitted by larval penetration of the human skin. Therefore preventative measures may be to wear shoes."
+Hookworm is usually transmitted by larval penetration of the human skin. Therefore preventative measures may be to wear shoes.",,
 Investigations,"Detailed anamnesis; including respiratory problems and the question if patients have seen worms in the stool. Ask for symptoms of anemia since this can be caused by hookworm. Consider doing a Hemoglobin check if available.
-Always consider alternative diagnosis especially in children; eg pneumonia, malaria, sepsis, UTI."
+Always consider alternative diagnosis especially in children; eg pneumonia, malaria, sepsis, UTI.",,
 Diagnosis,"For persistent symptoms unresponsive to initial Albendazole treatment consider doing a stool examination. Eggs can be found when infected with i.e. roundworm and whipworm. The utility of stool examination is limited for pinworm since worms and eggs are not generally passed in the stool.
-Certain infections can cause peripheral eosinophilia in blood examination."
+Certain infections can cause peripheral eosinophilia in blood examination.",,
 Management,"Albendazole every 3 months. 6m-2yrs 200mg once, 2 yrs–Adults 400 mg once.
 Patients will often have seen worms in the stool, but not always. For persistent symptoms unresponsive to initial treatment get a stool sample. Give 2 doses, separated by 2 weeks if a large worm burden is suspected (e.g. worms seen in stool, vomiting worms or stunted growth).
 In cases of anemia (with suspected hookworm infection); iron supplements can be given together with the treatment.
@@ -606,18 +607,18 @@ In cases of anemia (with suspected hookworm infection); iron supplements can be 
 Health Education
 Prevention in endemic areas is extremely difficult. Reinfection is common despite effective therapy. Simultaneous treatment of the households can be warranted given the high transmission rates among families.
 Hygienic measures such as clipping of fingernails, frequent handwashing (especially before eating and after defecation), and baths, are also helpful for reducing reinfection and spread of infection. In addition, bedding and clothes should be washed often.
-Using treated water and careful washing of vegetables and fruits grown in contaminated areas is also important."
-Complications,"Complications of roundworm may include obstruction of intestine, biliary, and/or pancreatic duct. Pulmonary ascariasis is rare among individuals in highly endemic areas. Other complications of hookworm may include anemia and impaired nutrition."
-,
-,
-4.5 Protozoa,
-Presentation,"Amoebiasis is a parasitic infection due to intestinal protozoa, with faecal oral transmission. Generally it has a subacute onset, usually over one to three weeks. Symptoms range from mild diarrhea to severe dysentery producing abdominal pain, nausea, vomiting, diarrhea, and bloody stools. Rarely, it presents itself extra-intestinal; most commonly with an amoebic liver abscess."
+Using treated water and careful washing of vegetables and fruits grown in contaminated areas is also important.",,
+Complications,"Complications of roundworm may include obstruction of intestine, biliary, and/or pancreatic duct. Pulmonary ascariasis is rare among individuals in highly endemic areas. Other complications of hookworm may include anemia and impaired nutrition.",,
+,,,
+,,,
+4.5 Protozoa,,,
+Presentation,"Amoebiasis is a parasitic infection due to intestinal protozoa, with faecal oral transmission. Generally it has a subacute onset, usually over one to three weeks. Symptoms range from mild diarrhea to severe dysentery producing abdominal pain, nausea, vomiting, diarrhea, and bloody stools. Rarely, it presents itself extra-intestinal; most commonly with an amoebic liver abscess.",,
 Causes,"Faecal-oral transmission.
 Giardia
-Amoebic"
+Amoebic",,
 Investigations,"Detailed anamnesis; including respiratory problems and the question if patients have seen worms in the stool. Also ask, for symptoms of anemia (since this can be caused by hookworm).
-Always consider alternative diagnosis especially in children; eg pneumonia, malaria, sepsis, UTI."
-Diagnosis,At clinic diagnosis is best accomplished by thorough anamnesis. Obtaining a stool sample can be considered.
+Always consider alternative diagnosis especially in children; eg pneumonia, malaria, sepsis, UTI.",,
+Diagnosis,At clinic diagnosis is best accomplished by thorough anamnesis. Obtaining a stool sample can be considered.,,
 Management,"Hydration (ORS), antibiotics. Avoid anti-diarrheals.
 In this setting where stool samples are difficult to obtain, treat any dysentery for Shigella first then Amoebiasis.
 
@@ -637,18 +638,18 @@ For diarrhoea lasting > 7 days consider Giardia:
 
 Remember to advise abstinence from alcohol during treatment!
 
-Prevention involves avoidance of untreated water; uncooked food such as fruit and vegetables. Amebic cysts are resistant to chlorine at the levels used in water supplies."
-Complications,"Common complications are metabolic derangement, dehydration and lactose intolerance. Lactose intolerance can be present as persistent diarrhoea >14 days following an acute diarrhoeal illness. It is also more common with chronic or recurrent episodes of diarrhoea. Typically diarrhoea may be fatty and can present at any age. Management would include reassurance and dietary advice (low lactose formula, eating whole egg or chicken, rice, vegetables and avoid dairy products). If persistent for > 14 days give multivitamins, zinc, magnesium, potassium supplements."
-,
-4.6 Gastroesophageal Reflux Disease,
+Prevention involves avoidance of untreated water; uncooked food such as fruit and vegetables. Amebic cysts are resistant to chlorine at the levels used in water supplies.",,
+Complications,"Common complications are metabolic derangement, dehydration and lactose intolerance. Lactose intolerance can be present as persistent diarrhoea >14 days following an acute diarrhoeal illness. It is also more common with chronic or recurrent episodes of diarrhoea. Typically diarrhoea may be fatty and can present at any age. Management would include reassurance and dietary advice (low lactose formula, eating whole egg or chicken, rice, vegetables and avoid dairy products). If persistent for > 14 days give multivitamins, zinc, magnesium, potassium supplements.",,
+,,,
+4.6 Gastroesophageal Reflux Disease,,,
 "Presentation/ Causes/ Investigations 83,84","Patients will often complain of burning epigastric pain, associated with meals, worse lying down, accompanied by nausea, vomiting, and an acid taste in their mouth. Gastritis can occur in episodes that last a few days or can be more chronic.
-Gastritis can be severely painful and other differentials should be considered such as bowel pathology, pancreatitis, liver abscess, gallstones, AAA, gastric ulcer/cancer and myocardial infarction/angina."
+Gastritis can be severely painful and other differentials should be considered such as bowel pathology, pancreatitis, liver abscess, gallstones, AAA, gastric ulcer/cancer and myocardial infarction/angina.",,
 Diagnosis,"If available at clinic an ECG can be used. Also, a trial of a PPI, Antacid, or nitrate can be used, with a review later in the week, to help you confirm your diagnosis.
 Using the Hemocue to check for anemia can be useful.
 
 Care should be taken to differentiate between potential causes. An ECG is available in clinic if needed, and a trial of a PPI, Antacid, or nitrate can be used, with a review later in the week, to help you confirm your diagnosis.
 
-If a skilled ultrasonographer is present, ultrasound can be utilised to image for other potential causes of burning epigastric pain (such as gallstones)."
+If a skilled ultrasonographer is present, ultrasound can be utilised to image for other potential causes of burning epigastric pain (such as gallstones).",,
 Management,"General treatment consists of dietary advice and education:
     - Avoid coffee, acidic food, spicy food, alcohol and smoking.
     - Sleep on incline.
@@ -677,30 +678,30 @@ If symptoms continue after 4 weeks of treatment (as detailed above) then give em
     - 2 Antibiotics:
         - Amoxicillin 500 mg 3 times a day, for 7 days.
         AND
-        - Metronidazole 500 mg 3 times a day, for 7 days."
-,
-,
-4.7 Abdominal Pain,
-Presentation,"Abdominal pain can vary from abdominal discomfort to severe abdominal pain. Other types of pain such as pleuritic/cardiac may be disguised as abdominal pain, especially in children."
+        - Metronidazole 500 mg 3 times a day, for 7 days.",,
+,,,
+,,,
+4.7 Abdominal Pain,,,
+Presentation,"Abdominal pain can vary from abdominal discomfort to severe abdominal pain. Other types of pain such as pleuritic/cardiac may be disguised as abdominal pain, especially in children.",,
 Causes,"The most common causes of abdominal pain that we see include; gastro-oesophageal
-disorders, UTI/pyelonephritis, STI, acute gastroenteritis or parasites. Other surgical conditions must be considered such as gallstones, tumours, renal stones and appendicitis."
+disorders, UTI/pyelonephritis, STI, acute gastroenteritis or parasites. Other surgical conditions must be considered such as gallstones, tumours, renal stones and appendicitis.",,
 Investigations,"Thorough history and examination are key. Things to enquire about in the history, in addition to nature of pain, include change in bowel habit, appetite, vomiting, fever, weight loss, dysuria and dyspepsia. Look for signs of peritonitis or signs of bowel obstruction that might need urgent referral.
 
-Check pregnancy status and urine dipstick. Hemoglobin might be checked if felt necessary. If available ask a trained ultrasonographer to look eg, gallstones."
-Diagnosis,Depending on the history and investigations. It is important to exclude an acute problem requiring surgery or Gynaecologic/ Obstetric problems.
+Check pregnancy status and urine dipstick. Hemoglobin might be checked if felt necessary. If available ask a trained ultrasonographer to look eg, gallstones.",,
+Diagnosis,Depending on the history and investigations. It is important to exclude an acute problem requiring surgery or Gynaecologic/ Obstetric problems.,,
 Management,"Management depends on the symptoms. If symptoms are non-specific then treat for parasites and follow-up the patient.
 
 Patients with symptoms of peritonitis or signs of bowel obstruction which will need urgent referral! If Gynaecologic / Obstetric please go to that section.
 
 Intestinal spasms
-    - Dicyclomine 20 mg as needed upto 4 times a day 3-5 days."
-Complications,Depending on the diagnosis.
-,
-,
-4.8 Constipation,
-Presentation,"Constipation can present itself with any of the following features: straining, lumpy hard stools, sensation of incomplete evacuation, use of digital maneuvers, sensation of anorectal obstruction or blockage with 25 percent of bowel movements, and decrease in stool frequency (less than three bowel movements per week)."
-Causes,"This is relatively common, some community members do not have regular access to fruit and vegetables. Risk factors for chronic constipation are older age, female gender, diet, physical inactivity."
-Investigations,Take a clear history and identify any signs of underlying pathology. In some cases inspection for hemorrhoids or digital rectal exam may be indicated.
+    - Dicyclomine 20 mg as needed upto 4 times a day 3-5 days.",,
+Complications,Depending on the diagnosis.,,
+,,,
+,,,
+4.8 Constipation,,,
+Presentation,"Constipation can present itself with any of the following features: straining, lumpy hard stools, sensation of incomplete evacuation, use of digital maneuvers, sensation of anorectal obstruction or blockage with 25 percent of bowel movements, and decrease in stool frequency (less than three bowel movements per week).",,
+Causes,"This is relatively common, some community members do not have regular access to fruit and vegetables. Risk factors for chronic constipation are older age, female gender, diet, physical inactivity.",,
+Investigations,Take a clear history and identify any signs of underlying pathology. In some cases inspection for hemorrhoids or digital rectal exam may be indicated.,,
 Diagnosis,"(1) The diagnosis should be based upon the presence of the following for at least 3 months (with symptom onset six months prior to diagnosis):
     - Straining during more that 25% of defecations.
     - Lumpy or hard stools in more than 25% of defecations.
@@ -709,61 +710,61 @@ Diagnosis,"(1) The diagnosis should be based upon the presence of the following 
     - Manual maneuvers to facilitate for more that 25% of defecations.
     - Fewer than three spontaneous bowel movements per week
 (2) Loose stools should rarely be present without the use of laxatives
-(3) There must be insufficient criteria for irritable bowel syndrome."
+(3) There must be insufficient criteria for irritable bowel syndrome.",,
 Management,"Health Education
     - Advise increase fluid intake and fruit/vegetable consumption.
 
 Pharmacological treatment
-    - Adults and children >11 years: Docusate sodium 100 – 200 mg twice a day. Up to 500 mg/day in divided doses."
-Complications,"Rectal bleeding due to hemorrhoids or anal fissures, cramping abdominal pain, fecal impaction, rectal prolapse."
-,
-$Genitourinary,
-,
-5.1 Acute cystitis infection in pregnant women,
-Presentation,"Cystitis is an infection of the bladder and urethra that affects mainly females. Clinical manifestations of cystitis consist of dysuria, frequency, urgency, suprapubic pain, and/or hematuria."
+    - Adults and children >11 years: Docusate sodium 100 – 200 mg twice a day. Up to 500 mg/day in divided doses.",,
+Complications,"Rectal bleeding due to hemorrhoids or anal fissures, cramping abdominal pain, fecal impaction, rectal prolapse.",,
+,,,
+$Genitourinary,,,
+,,,
+5.1 Acute cystitis infection in pregnant women,,,
+Presentation,"Cystitis is an infection of the bladder and urethra that affects mainly females. Clinical manifestations of cystitis consist of dysuria, frequency, urgency, suprapubic pain, and/or hematuria.",,
 Causes,"The pathogenesis of urinary tract infection begins with colonization of the vaginal introitus by uropathogens from the fecal flora, followed by ascension via the urethra into the bladder.
 
 The microbial spectrum of uncomplicated cystitis and pyelonephritis in women consists mainly of Escherichia coli (75 to 95 percent), with occasional other species of Enterobacteriaceae, such as Proteus mirabilis and Klebsiella pneumoniae, and other bacteria such as Staphylococcus saprophyticus
 
-The main risk factors include recent sexual intercourse, recent spermicide use, and a history of urinary tract infection."
+The main risk factors include recent sexual intercourse, recent spermicide use, and a history of urinary tract infection.",,
 Investigations,"Urinalysis by urine dipstick. Asses for leukocyte esterase, nitrite and haematuria. Leukocytes and nitrates are most accurate for predicting a UTI. Haematuria is useful in ruling out urethritis or vaginitis.
-Caution: A dipstick negative for both leukocyte esterase or nitrate can’t be reliably used to rule out infection if the history is strongly suggestive of urinary tract infection."
+Caution: A dipstick negative for both leukocyte esterase or nitrate can’t be reliably used to rule out infection if the history is strongly suggestive of urinary tract infection.",,
 Diagnosis,"The clinical diagnosis is made in a presentation consistent with that of a urinary tract infection and is supported by urinalysis evidence of pyuria and/or bacteriuria.
-Physical examination is often not necessary for diagnosis in women with typical symptoms of cystitis, but if performed, should include assessment for fever, costovertebral angle tenderness, and abdominal examination."
+Physical examination is often not necessary for diagnosis in women with typical symptoms of cystitis, but if performed, should include assessment for fever, costovertebral angle tenderness, and abdominal examination.",,
 Management,"Pharmacological Treatment for Uncomplicated UTI
     - Amoxicillin 500mg three times daily for 5 days.
-    - Cotrimoxazole 160/800 mg tablet twice daily for 3 days. 87"
-Complications,"Patients with acute cystitis persistent symptoms after 48 to 72 hours of appropriate antimicrobial therapy or recurrent symptoms within a few weeks of treatment should have evaluation for complicated infection. A complicated urinary tract infection, is associated with an underlying condition that increases the risk of failing therapy. This may include Diabetes, Pregnancy, Acute or Chronic Kidney disease. Empiric treatment should be initiated with another antimicrobial agent. 87 88"
-,
-,
-,
-5.2 Acute pyelonephritis,
+    - Cotrimoxazole 160/800 mg tablet twice daily for 3 days. 87",,
+Complications,"Patients with acute cystitis persistent symptoms after 48 to 72 hours of appropriate antimicrobial therapy or recurrent symptoms within a few weeks of treatment should have evaluation for complicated infection. A complicated urinary tract infection, is associated with an underlying condition that increases the risk of failing therapy. This may include Diabetes, Pregnancy, Acute or Chronic Kidney disease. Empiric treatment should be initiated with another antimicrobial agent. 87 88",,
+,,,
+,,,
+,,,
+5.2 Acute pyelonephritis,,,
 "Presentation 83–86,89","Onset is usually rapid with symptoms appearing over a day or two. There is unilateral or bilateral loin pain, suprapubic pain or back pain. Fever is variable but can be high enough to produce rigors. Malaise, nausea, vomiting, anorexia and occasionally diarrhoea occur. There may or may not be accompanying lower urinary tract symptoms with frequency, dysuria, gross haematuria or hesitancy. The patient looks ill and there is commonly pain on firm palpation of one or both kidneys and moderate suprapubic tenderness without guarding.
-Presentation in children, especially when young, can be much less specific and culture of urine should be a routine investigation in pyrexial and unwell infants."
+Presentation in children, especially when young, can be much less specific and culture of urine should be a routine investigation in pyrexial and unwell infants.",,
 Causes90,"The source of the infection is often ascending infection from the bladder but haematogenous spread can also occur. The usual organisms are the same as for lower urinary tract infection (UTI) - eg, Escherichia coli, Klebsiella spp., Proteus spp., Enterococcus spp.
 
-Incidence is highest in women aged 15-29, followed by infants and older people91."
-Investigations,Our access to investigations will be limited. A urine dipstick can be performed to look for signs of damage to the renal tract or infection. Renal ultrasound may show small kidneys with a thin cortex.
+Incidence is highest in women aged 15-29, followed by infants and older people91.",,
+Investigations,Our access to investigations will be limited. A urine dipstick can be performed to look for signs of damage to the renal tract or infection. Renal ultrasound may show small kidneys with a thin cortex.,,
 Management92,"Aims of management are to control active or recurrent infection and to treat/correct any underlying causes.
     - Blood pressure should be controlled to slow the progression of chronic kidney disease. Ideally angiotensin-converting enzyme (ACE) inhibitors should be used. In our setting, consider alternatives in view of the difficulties encountered monitoring them and the potential for dehydration to ensue.
     - Supervening UTI may require lengthier courses of antibiotics than are normally given.
-    - In severe cases hospital referral may be necessary."
+    - In severe cases hospital referral may be necessary.",,
 Complications93,"    - Progressive renal scarring with reflux nephropathy and CKD.
     - Secondary hypertension.
     - Pyonephrosis.
     - Focal glomerulosclerosis.
-    - Urea-splitting organisms can lead to staghorn calculi - the usual culprit is Proteus spp."
-,
-5.3 Vaginal discharge,
+    - Urea-splitting organisms can lead to staghorn calculi - the usual culprit is Proteus spp.",,
+,,,
+5.3 Vaginal discharge,,,
 Presentation,"Presentation depends on cause:
 Bacterial Vaginosis: Causes a thin, fishy-smelling discharge without itch or soreness.
 Candidiasis: Thick, typically curd like, white, non-offensive discharge which is associated with vulval itch and soreness. May cause mild dyspareunia and dysuria.
 Chlamydia trachomatis: May cause a copious purulent vaginal discharge but it is asymptomatic in 80% of women.
 Trichomonas vaginalis: May cause an offensive yellow vaginal discharge, which is often profuse and frothy, associated with vulval itch and soreness, dysuria, abdominal pain and superficial dyspareunia.
-Neisseria gonorrhoeae: May present with a purulent vaginal discharge but is asymptomatic in up to 50% of women."
-Causes,Please see above.
-Investigations,Referral for STI screening where appropriate.
-Diagnosis,"Diagnosis is made based on history, examination, to include a speculum exam and STI testing where appropriate 94"
+Neisseria gonorrhoeae: May present with a purulent vaginal discharge but is asymptomatic in up to 50% of women.",,
+Causes,Please see above.,,
+Investigations,Referral for STI screening where appropriate.,,
+Diagnosis,"Diagnosis is made based on history, examination, to include a speculum exam and STI testing where appropriate 94",,
 Management,"Management depends on diagnosis:
 
 Bacterial Vaginosis
@@ -784,28 +785,28 @@ Trichomonas vaginalis:
 Metronidazole 2 gram stat 97
 
 Neisseria gonorrhoeae:
-    - Ceftriaxone 250 mg intramuscular in a single dose for treatment of gonococcal infection PLUS Azithromycin (1 gram stat) for possible additional activity against N. gonorrhoeae and for treatment of potential chlamydia coinfection98,99"
-Complications,"Untreated, some vaginal infections can spread to the upper reproductive tract and cause more serious illness and, in the long term, infertility100."
-,
-,
-,
-5.4 Lower abdominal pain in women,
-Presentation,Lower abdominal pain
+    - Ceftriaxone 250 mg intramuscular in a single dose for treatment of gonococcal infection PLUS Azithromycin (1 gram stat) for possible additional activity against N. gonorrhoeae and for treatment of potential chlamydia coinfection98,99",,
+Complications,"Untreated, some vaginal infections can spread to the upper reproductive tract and cause more serious illness and, in the long term, infertility100.",,
+,,,
+,,,
+,,,
+5.4 Lower abdominal pain in women,,,
+Presentation,Lower abdominal pain,,
 Causes,"Obstetric/ Gynecology Emergency: Hemorrhage, rupture, or torsion of an uterine/ovarian structure or neoplasm, miscarriage, labor, abruptio placenta, ectopic pregnancy.
 
-Other common causes: Pelvic inflammatory disease, Endometriosis, Primary Dysmenorrhea 101. (Please see Abdominal Pain 4.7 for other causes)"
-Investigations,Thorough examination. Urine dipstick and pregnancy test.
-Diagnosis,Depends on presentation.
+Other common causes: Pelvic inflammatory disease, Endometriosis, Primary Dysmenorrhea 101. (Please see Abdominal Pain 4.7 for other causes)",,
+Investigations,Thorough examination. Urine dipstick and pregnancy test.,,
+Diagnosis,Depends on presentation.,,
 Management,"Obstetric/ Gynecology Emergency: Please refer straight to nearest appropriate hospital and manage appropriately for transfer.
 Pelvic Inflammatory Disease: Ceftriaxone (250 mg intramuscularly in a single dose) plus doxycycline (100 mg orally twice a day for 14 days).102
 Endometriosis: NSAIDS103
-Primary Dysmenorrhea: NSAIDS 104"
-Complications,Depends on diagnosis
-,
-5.5 Disorders of menstruation,
-5.5.1 Menorrhagia,
+Primary Dysmenorrhea: NSAIDS 104",,
+Complications,Depends on diagnosis,,
+,,,
+5.5 Disorders of menstruation,,,
+5.5.1 Menorrhagia,,,
 Presentation,"Menorrhagia is defined as blood loss greater than 80ml per month105. The average menstrual loss is around 30-40ml per month106.
-Heavy menstrual loss can be extremely distressing for patients leading to limitations in physical, social and leisure activities107."
+Heavy menstrual loss can be extremely distressing for patients leading to limitations in physical, social and leisure activities107.",,
 Causes,"There are multiple causes of menorrhagia.
 
 Local Causes include108:
@@ -822,10 +823,10 @@ Contraception110 - particularly IUCDs.
 
 Some cases are associated with anovulatory cycles and this tends to occur around the extremes of reproductive life110,111.
 
-In some women, no cause can be found. This is known as Dysfunctional Uterine Bleeding110–112."
+In some women, no cause can be found. This is known as Dysfunctional Uterine Bleeding110–112.",,
 Investigations113,"    - History: Ask about duration of bleeding, cycle length, intermenstrual bleeding, postcoital bleeding, pelvic pain and any indicators of anaemia or potential systemic diseases.
     - Examine the patient for signs of anaemia. Perform an abdominal examination and where indicated a bimanual examination. Use the Haemocue to check Hemoglobin.
-If you are suspected a structural cause and we have an ultrasonographer available, this may be useful in further work up."
+If you are suspected a structural cause and we have an ultrasonographer available, this may be useful in further work up.",,
 Management,"If the patient is anemic, treat the anemia!
 
 If the history, examination findings are hemoglobin are reassurring it is a feasible option to institute medical treatment113,114 (if necessary). Medical treatment options will depend on our pharmacy inventory but include:
@@ -833,13 +834,13 @@ If the history, examination findings are hemoglobin are reassurring it is a feas
     - Tranexamic acid
     - Combined oral contraceptive pill
 
-If suspecting a more sinister cause of menorrhagia, referral to hospital may be necessary."
-,
-,
-5.5.2 Amenorrhea,
+If suspecting a more sinister cause of menorrhagia, referral to hospital may be necessary.",,
+,,,
+,,,
+5.5.2 Amenorrhea,,,
 Presentation,"Amenorrhea is defined as the absence or cessation of menstruation115. It can be further subdivided into primary and secondary amenorrhea:
 Primary amenorrhea: menses have not occurred by the time of the expected menarche.
-Secondary amenorrhea: menstruation has previously occurred but it has stopped."
+Secondary amenorrhea: menstruation has previously occurred but it has stopped.",,
 Causes,"There are a number of causes of amenorrhea115,116.
 
 Primary
@@ -849,10 +850,631 @@ Secondary
     - Pregnancy, lactation and menopause are physiological causes of amenorrhea.
     - Contraception (such as Depo which we frequently use)
     - Weight loss
-    - Polycystic ovarian syndrome"
+    - Polycystic ovarian syndrome",,
 Investigations,"Do a pregnancy test!
 In the history ask about117: duration, contraceptive use, vasomotor symptoms, galactorrhea, medication history and past medical history.
 Check weight and height and calculate BMI
 Examine for signs of excessive androgens, the development of secondary sexual characteristics and abdominal masses118.
-An ultrasound may be useful if suspecting Polycystic Ovarian Syndrome though bear in mind visualisation of the ovaries can be difficult with transabdominal ultrasounds."
-Management,This will be largely dependent on the underlying cause. Often reassurance (especially in the context of Depo injections) is all that is required. Advise on the need for sufficient oral intake. Referral to hospital may be necessary for further investigation.
+An ultrasound may be useful if suspecting Polycystic Ovarian Syndrome though bear in mind visualisation of the ovaries can be difficult with transabdominal ultrasounds.",,
+Management,This will be largely dependent on the underlying cause. Often reassurance (especially in the context of Depo injections) is all that is required. Advise on the need for sufficient oral intake. Referral to hospital may be necessary for further investigation.,,
+,,,
+$Neurological,,,
+6.1 Developmental Delay,,,
+Presentation,"Look out for red flags119:
+Any loss of skills at any age Can’t sit unsupported by 12 months Can’t walk or no speech by 18 months Any loss of skills at any age Not fixing or following an object Hearing loss Low muscle tone/ floppy or increased muscular tone Persistent toe walking Point at object to share into with others by 2 years",,
+Causes,"The causes of developmental delay are multiple 121:
+
+Delayed Motor Development
+Central: Cerebral palsy, hemiplegia, peripheral lesions, visual impairment - affecting fine motor
+Systemic disorders: Hypothyroidism etc
+Environmental: Malnutrition, lack of practice
+
+Delayed Speech / Language
+Central: Autism, global learning difficulty, isolated speech delay, hearing loss.
+Environmental: Malnutrition, lack of practice
+
+Global Development Delay
+Cerebral malformations, hypoxic ischemic encephalopathy, chromosomal abnormalities, TORCH infections, toxin exposure, metabolic causes",,
+Diagnosis,Diagnosis will require referral to hospital. Liaise with a Lead Medical Provider if you suspect Developmental Delay in a patient. The Panamanian system can sometimes offer support (both financial and otherwise) to help the child and their family.,,
+Management,"Referral to hospital will potentially open up the possibility of multidisciplinary management which would be ideal for the patient and their family122,123.
+Otherwise during a Floating Doctors clinic, a provider can educate the family about the likely developmental delay and make them aware of the actions needed depending on the situation. Other options are to educate the local school teachers as developmental delay can impact a child’s school performance.",,
+,,,
+6.2 Seizures,,,
+Presentation124,"“The clinical decision as to whether an epileptic seizure has occurred should be based on the combination of the description of the attack and different symptoms. A detailed history from the patient and any witness is essential.”
+Anecdotally, we have found that patients don’t often present with a history of seizures, it is only when exploring symptoms or talking to community members that an individual with epilepsy may be identified.",,
+Causes,"There are numerous causes of seizures124,125. Seizures can be idiopathic, due to cerebrovascular disease, head injury, drug induced, due to metabolic disturbance amongst other factors.
+
+A particular cause to think about in our setting is central nervous system infection. Panama is known to have relatively high rates of Neurocystericosis126–129 so consider this as a possibility.",,
+Diagnosis,"Whilst history is crucially important for the diagnosis of a cause of a seizure, it is equally as important that reversible causes are ruled out. As such referral to hospital where blood tests and imaging can be performed is crucial.",,
+Management,"Identify any potential triggers for seizures and educate accordingly.
+Seizures can be triggered124,125,130 by sleep deprivation, medication non-adherence, alcohol, drugs and bright lights.
+If a patient is already established on medications, switching over to other ones can be extremely problematic if not monitored adequately. As such this should only be done by a specialist in our setting. If you know a patient is on medication, we can re-supply it. Alternatively, Friday follow up can be utilised to acquire the necessary medication and then provide it to the patient.
+
+For decisions on whether or not to commence new medications, it is usually best to refer onto a specialist. This is because anti-epileptic drugs will often require close monitoring when first initiated 126,127.
+
+Regarding Neurocystericosis, whilst Albendazole can treat the causative Taeniae solium126, it is generally recommended that this be done in a secondary care setting. This is because the killing of the cysticerci can initially worsen inflammation and cerebral oedema126–128. As a result, high dose concomitant steroid therapy may also be required.",,
+Complications,"“Social stigmatisation and occupational issues. Psychosocial problems: Developmental problems in children with early-onset seizures. Specific cognitive and learning difficulties impacting on education if not recognised. AED side-effects; risk of fetal malformation associated with AEDs. Accidents resulting from a seizure often cause injuries - eg, head injuries, lacerations, fractures and burns.”",,
+,,,
+$Cardiovascular,,,
+7.1 Diabetes,,,
+Presentation131,"Symptoms include polyuria, polydipsia and (in type 1 diabetes) unexplained weight loss.",,
+Causes132,"Type 1 diabetes mellitus - No insulin production.
+Type 2 diabetes mellitus - Results from resistance to the insulin, often initially with normal or increased levels of circulating insulin.",,
+Diagnosis133,"Please ensure you are familiar with the different units used to measure BSL (mmol/L and mg/dL) to avoid diagnostic confusion. A conversion chart is available in clinic.
+
+Diagnostic criteria:
+Diabetes:
+Random BSL ≥ 11.1 mmol/L (200 mg/dL)
+Fasting BSL ≥ 7.0 mmol/L (126 mg/dL)
+
+Impaired Glucose Tolerance (IGT):
+Random BSL between 7.8 -11.0 mmol/L (140 – 199 mg/dL)
+Impaired Fasting Glucose (IFG):
+Fasting BSL between 5.6 – 6.9 mmol/L (100 – 125 mg/dL)
+
+Patients with IGT and IFG are at high risk of developing Diabetes. These patients should be given the same lifestyle advice as patients with Type 2 Diabetes to help delay the onset of diabetes. The same risk factors should be addressed also.
+The diagnosis of IGT is usually made with an Oral Glucose Tolerance Test (OGTT) after abnormally high BSL (but not meeting the criteria for Diabetes). However, the OGTT is not easily available in our setting so ensure these patients have a fasting blood glucose taken and advice/treatment is based on that result.
+We do not have access to HbA1c blood tests in Floating yDoctors clinics so please utilise the blood glucoses for your diagnostic work up.",,
+Management,"The management plan for a patient with diabetes involves134:
+Diabetes education: structured education and self-management (at diagnosis and regularly reviewed and reinforced) to promote awareness. Diet and lifestyle: healthy diet, weight loss if the person is overweight, smoking cessation, regular physical exercise. Maximising glucose control while minimising adverse effects of treatment, such as hypoglycaemia. Reduction of other risk factors for complications of diabetes, including the early detection and management of hypertension, drug treatment to modify lipid levels and consideration of antiplatelet therapy with aspirin. Monitoring and early intervention for complications of diabetes, including cardiovascular disease, feet problems, eye problems, kidney problems and neuropathy.
+Type 1 - Insulin therapy required. Our pharmacy stock of insulin varies. Please liaise with Lead Medical Providers and the Pharmacy Manager about the types of insulin that we have available.
+Generally speaking, if insulin therapy needs to be initiated it is much better for this to be done in a hospital. If the clinical situation is urgent then perform a urine dipstick to look for ketones as diagnostic work up for Diabetic Ketoacidosis. If positive transfer immediately to hospital.
+
+Remember, not give insulin before giving fluid135. This can cause a life threatening fluid shift.
+
+Type 2 Diabetes - Our pharmacy stock is most often limited to Metformin and Glibenclamide. 136,137
+Initial treatment with Metformin (when contra-indicated or not tolerated, consider dipeptidyl peptidase-4 (DPP-4) inhibitor or pioglitazone or a sulfonylurea) If not adequately regulated on Metformin only, add a DPP-4 inhibitor, pioglitazone or a sulfonylurea (this is where glibenclamide can be initiated).
+Without HbA1c monitoring, it can be difficult to determine a patient’s level of control. Use a combination of history taking, examination findings and the blood sugar on the day of consultation to guide management. Some patients may have MINSA treatment cards. Ask specifically for this.
+
+For patients with diabetes, we have also developed chronic treatment cards. Please liaise with a staff member about this and provide them to patients where necessary.",,
+"Acute
+Complications135,138","Hypoglycaemia
+Any blood glucose ≤4.0 mmol/L (72mg/dL) should be treated if the patient is symptomatic. If in doubt about whether or not to treat, it is safer to treat. See the below instructions on this139:
+Initially
+Glucose 10-20 g is given by mouth, either in liquid form or as granulated sugar (two teaspoons) or sugar lumps.
+Repeat capillary blood glucose after 10-15 minutes; if the patient is still hypoglycaemic then the above can be repeated (probably up to 1-3 times).
+
+If hypoglycemia causes unconsciousness, or the patient is uncooperative:
+Intravenous administration of 75-80 ml 20% glucose or 150-160 ml of 10% glucose (the volume will be determined by the clinical scenario). Check with the Pharmacy Manager and LMPs about the types of glucose available.At this stage emergency hospital admission will be necessary.
+Diabetic Ketoacidosis and Hyperglycaemic Hyperosmolar State cannot be diagnosed in our setting. However, if either of the two conditions are suspected - urgently transfer the patient to hospital!",,
+Chronic Complications,"The management of chronic complications of diabetes can be extremely difficult in our setting.
+Complications include139,140:
+Cardiovascular disease - advice on the need for optimal blood glucose control should be provided. Modifiable lifestyle factors should also be addressed where appropriate. Diabetic Nephropathy - Perform a urine dipstick in all patients you see. If positive for blood or protein, patients will require work-up in hospital. Diabetic Retinopathy and Diabetic Eye Problems - Attempt fundoscopy in all diabetic patients. Diabetic Neuropathy, Autonomic Neuropathy and Neuropathic Pain and its Management. This may necessitate hospital referral. Often gabapentin can be initiated for troublesome neuropathic pain141. Please consult the BNF for dosing instructions. Diabetic Foot, Leg Ulcers and Painful Foot142. Education, including the importance of routine preventative podiatry care and use of appropriate footwear. The person should check their feet every day and report any sores or cuts that do not heal, any puffiness or swelling and any skin that feels hot to the touch. Frequent, recurrent and persistent infections. Advice on the appropriate recognition of these and tips on how these can be avoided should be given.",,
+,,,
+7.2 Hypertension,,,
+Presentation143,"High blood pressure (HBP) is usually asymptomatic, except where there is accelerated hypertension.
+All patients need a full history and physical examination. Look for a cause (renal, endocrine, etc, as above), particularly in the young, the severely hypertensive and those with resistant hypertension144.",,
+Causes145,"Essential hypertension (primary, cause unknown) accounts for the majority of cases, particularly in the older patient.
+
+Secondary hypertension is commonly caused by renal disease, endocrine conditions or pregnancy. Refer to hospital if you are suspecting secondary hypertension in a patient.
+
+Modifiable risk factors include: Excess weight, Excess dietary salt intake, Lack of physical activity, Excessive alcohol intake, Stress.
+
+Non-modifiable risk factors include: Older age, Family history, Ethnicity (HBP is the most common cardiovascular risk factor among Panamanians and consequently an important public health problem in Panama.146), Gender (BP tends to be higher in men than in women up to the age of 65 years, whereas the opposite tends to be true over the age of 65 years).",,
+Investigations147–149,"Looking for target-organ damage (these are not always available in our clinic):
+Urine dipstick test for protein and blood. Serum creatinine and electrolytes and eGFR (requires hospital work-up). Renal ultrasound scan. 12-lead ECG (looking for LVH or signs of CHD). Echocardiography.Cardiovascular disease prevention:
+Fasting blood glucose. Fasting serum total and high-density lipoprotein (HDL) cholesterol (requires hospital work-up).
+If a secondary cause is suspected, hospital referral will be required for the appropriate work-up.",,
+Diagnosis,"The National Institute for Health and Care Excellence (NICE) recommends the following definitions150:
+Stage 1 hypertension - BP in surgery/clinic is ≥140/90 mm Hg and ambulatory blood pressure monitoring (ABPM) or home blood pressure monitoring (HBPM) is ≥135/85 mm Hg. Stage 2 hypertension - BP in surgery/clinic is ≥160/100 mm Hg and ABPM or HBPM is ≥150/95 mm Hg. Severe hypertension - BP in surgery/clinic is ≥180/110 mm Hg or higher.Diagnosis usually requires Ambulatory Blood Pressure Monitoring. Unfortunately this is rarely available in our setting. Thus utilise clinic BP recordings to guide diagnosis. If you are unsure about whether or not to initiate treatment, then utilise the Friday follow up day to recheck blood pressure.",,
+"Management151,152","Lifestyle interventions
+Weight reduction should be suggested if necessary, to maintain an ideal body mass index (BMI) of 18.5-24.9 kg/m2151. Advice to stop smoking where appropriate Encouraging exercise where appropriate - this is often less of a problem for our patients The spread of Western foods to the communities we serve has led to discrepancies in nutritional intake amongst older and younger patients that point to both macro and micronutrient deficiencies153. These differences in diet diversity for older and younger respondents have negative correlations with Body Mass Index and blood glucose. Attempt to educate patients about the negative health effects of unhealthy western foods such sodas and sweets.
+Pharmacological Treatment
+Our guidelines on the management of hypertension have been decided following careful consideration of the frequency of monitoring available to our population in conjunction with current evidence based practice. Start on monotherapy:
+
+1st line: Amlodipine 5mg OD (can be increased to 10mg OD)
+2nd line: Thiazide diuretic (Hydrochlorothiazide 25-50mg OD)
+3rd line: Beta blocker",,
+Complications,"Refer to hospital in case of malignant hypertensive crisis (systolic >200 mm Hg, diastolic >130 mm Hg) accompanied by end-organ damage such as encephalopathy, dissection, pulmonary oedema, nephropathy, eclampsia, papilloedema and/or angiopathic haemolytic anaemia.
+
+In case of hypertensive urgency (systolic ≥180 mmHg, ≥120 mm Hg) without impending end-organ damage. Treatment should safely reduce BP over a few days. Given the setting we are in, admission to hospital should be considered.
+
+Complications of chronic hypertension: stroke or TIA, dementia, left ventricular hypertrophy/ left ventricular strain, coronary heart disease, peripheral arterial disease, renal impairment or hypertensive retinopathy.",,
+,,,
+$Ears,,,
+8.1 Acute otitis externa,,,
+Presentation,"Pruritis and pain often exacerbated by movement of the pinna. Discharge may be clear, purulent or absent.",,
+Causes,Inflammation of external ear canal due to bacterial or fungal infection. Can be precipitated by trauma or foreign body.,,
+Investigations,"Take thorough history and investigate with otoscope (inspect: redness, swelling, blood, pus, air bubbles, fluid in the middle ear, perforation of the eardrum).",,
+Diagnosis,Made by clinical examination.,,
+Management,"Paracetamol +/- Ibuprofen for pain
+Local treatment for 7 days ear wick with dry tissue (show parent/patient technique).
+Can apply 0.5% gentian violet with cotton bud. Consider Otoseda eardrops.",,
+Complications,"Complications can be severe. Red flags are: complete acute stenosis of the ear canal – you cannot insert a speculum at all, cellulitis of the pinna or peri-auricular area, ipsilateral cranial nerve palsy, ipsilateral severe head pain.
+
+Admit patients where you have clinical suspicion of necrotising otitis externa (NOE), abscess collection or pinna/facial cellulitis.",,
+,,,
+,,,
+8.2 Acute otitis media,,,
+Presentation,"Typically presents with rapid onset of ear pain, discharge and/or fever.
+With children atypical symptoms can present such as abdominal pain, vomiting, diarrhea, diminished intake.",,
+Causes,Common in children <3yrs. Acute inflammation of the middle ear caused by viral/bacterial infection.,,
+Investigations,"Take thorough history including the question about previous episodes. Investigate with otoscope (inspect: redness, swelling, blood, pus, air bubbles, fluid in the middle ear, perforation of the eardrum).",,
+Diagnosis,Made after clinical examination.,,
+Management,"Pharmacological Treatment
+    - Antibiotics recommended for all children less than 2 years, severe infection, or patients with risk factors.
+
+Amoxicillin
+    - Children: 40mg/kg divided in 3 doses for 7 days.
+    - Adults: 500 mg 3 times a day for 7 days
+
+OR
+
+Cotrimoxazole
+    - Children: 36mg/kg divided in 2 doses for 5-7 days, max 1920 mg/day.
+    - Adults: 960 mg twice a day for 5-7 days
+
+If no effect of Amoxicillin, change to Augmentin 40/10 mg/kg in 3 doses for 7 days
+
+Advise parents to come back to the Friday Follow Up if symptoms haven’t resolved, or advise to go to hospital if symptoms haven’t improved after 48 hours.",,
+Complications,"Risk Factors for complications such as meningitis and mastoiditis:
+    - Age < 6 months
+    - Anatomical variations in ENT area (such as with Down Syndrome or cleft palate)
+    - Previous ear operations
+    - Immunocompromised / malnourished patients 
+
+In case of an eardrum perforation advise to recheck the ear after 2 weeks to see if a child can go swimming again. If the perforation is still not closed after 6 weeks refer to specialist.",,
+,,,
+8.3 Chronic suppurative otitis media,,,
+Presentation,Chronic bacterial infection of the middle ear and mastoid cavity with persistent purulent discharge through a perforated tympanic membrane for at least 6 weeks. Symptoms persist for more than 2 weeks +/- hearing loss.,,
+Causes,Chronic suppurative otitis media occurs following an upper respiratory tract infection that has led to acute otitis media.,,
+Investigations,Take a thorough history. Inspect with otoscope. Examine for mastoiditis and meningitis.,,
+Diagnosis,Depending on investigations.,,
+Management,"Treatment
+    - Remove secretions by gently dry ear wicking.
+    - Amoxicillin 40-50 mg/kg 2 times per day for 14 days and then review
+    - Consider Otoseda drops and hearing testing.",,
+Complications,"Main complications are mastoiditis, postauricular fistula, facial palsy, meningitis.",,
+,,,
+,,,
+8.4 Foreign body and Wax,,,
+Presentation,"Ear Wax acts as an agent to protect the ear, for example from insects – due to the naturally bitter composition of the wax, and to help remove small foreign particles such as dust. Ears are naturally self-cleaning, but on occasion the cerumen may need intervention to remove it. This can occur if there is wax impaction or if there is a foreign body in the ear canal.",,
+Causes,"In the case of wax impaction, symptoms can include hearing problems, itching, discomfort and tinnitus. Balance may sometimes be affected.",,
+Investigations,Inspection using otoscope.,,
+Diagnosis,Made after inspection of the ear.,,
+Management,"For hard wax resistant to ear wicking dissolve 1/4 tsp sodium bicarbonate in 10mls of water and irrigate the ear. An alternative is a few drops of acetic acid to soften wax prior to irrigation. Foreign bodies can be removed with tweezers, or irrigation with clean water and a 50ml syringe.
+
+For impacted ear wax: docusate sodium twice a day is also an easy and effective treatment, especially if you want to have another look in a patient's ears for follow up, this will often clear all the wax out in a few days.",,
+Complications,"Complications can be variable; such as infection, perforation.",,
+,,,
+$Eyes,,,
+9.1 Cataract,,,
+Presentation154,"This depends on the size and location of the opacity but typical features include:
+    - Gradual painless loss of vision.
+    - Difficulties with reading.
+    - Failure to recognise faces.
+    - Diplopia in one eye.
+    - Haloes",,
+Causes,"In our population, causative factors include155:
+    - Diet (malnutrition).
+    - Acute dehydrating diseases.
+    - Cumulative exposure to sunlight.
+    - In developing countries, cataracts are common in young adults and may be associated with atopy and with diabetes.
+
+Other causative factors include:
+    - Age
+    - Smoking
+    - Systemic corticosteroids",,
+Diagnosis,"Use opthalmoscopy to look for a cataract. Look for loss of red reflex, lens opacity, additional visible retinal pathology. Opacities can be seen as defects in the red reflex obtained when the ophthalmoscope is held 60 cm from the eye156. This is best seen with a dilated pupil.
+
+Visual acuity and corrected visual acuity should be recorded for each eye
+
+Ask about ADLs and impact of loss of vision and impact on QOL.
+
+Screen for diabetes",,
+Management,"There is no definitive prevention or medical treatment available for cataracts155,157.
+Surgical removal is the only treatment. Unfortunately, surgery can be hard to come by in our setting. Nonetheless, we keep a record of patients with cataracts so that we can liaise with visiting surgical groups when they do come to the region. We should not promise surgery for patients with cataracts, but we can let them know that they are on our list and that if/when the outside group comes to Bocas, we will be in touch to try to arrange the surgery. List the patient as for ‘Follow Up’ writing ‘Add to Ophthalmology list,’ and try to get a working phone number for the patient if possible.
+
+Provide counselling to use hat and sun glass to prevent progression/development in other eye.
+
+Ensure documentation is good – diagnosis, coding and follow up clearly written, add to the ophthalmology list, with documented visual acuity.
+
+Try to get a contact number for the patient, we will have the ability to add patients to the cataract surgery list in Changuinola every 2-3 months.",,
+,,,
+9.2 Pterygium,,,
+Presentation,An elevated ocular mass that forms in the corneoscleral junction and extends onto the cornea. Patient may present with eye pain and redness of the eye.,,
+Causes,"Lesions may be hereditary, but can also be associated with:
+    - Dry environment
+    - Dust
+    - Wind
+    - Smoke
+    - Sun",,
+Investigations,"None needed unless the pterygium extends over the pupil, in which case visual acuity testing is indicated.
+
+Also screen for cataracts as they are both caused by UV damage.",,
+Diagnosis,Diagnosed by clinical examination.,,
+Management,"The patient should be educated about the causes of pterygium and advised to stay out of dry, dusty environments as much as possible. Sunglasses and lubricating eye drops can be given to try to limit the progression of the pterygium. If the pterygium is aggressive or fast-growing, or if it extends into the pupil, the patient should be added to the ophthalmology list for potential surgical excision. Ensure clear documentation of diagnosis, staging and coding. Please speak with the LMP regarding follow up plans for any such patient.",,
+Complications,"When severe, the pterygium can grow over the pupil and cause vision loss.",,
+,,,
+9.3 Conjunctivitis,,,
+Presentation,"Inflammation and redness of the eye, with or without tearing, discharge, or itching.",,
+Causes,"Conjunctivitis can be:
+    - Allergic
+    - Viral
+    - Bacterial 
+
+Can be associated with measles or URTI.",,
+Investigations,"In this setting, it is usually not possible to do a culture, so investigations are not indicated. Always check for foreign bodies.",,
+Diagnosis,Generally diagnosed by anamnesis and clinical exam alone.,,
+Management,"Most cases of conjunctivitis are viral and self-limiting.
+Clean eye 4-6 times/day with cooled boiled water.
+Consider treatment for bacterial conjunctivitis if purulent secretions.
+
+    - Bacterial conjunctivitis: Ofloxacin 0.3% drops
+        - Apply every 2-4 hours for first 2 days, then reduce to 4 times a day for 3-5 days.
+
+Consider treatment for allergic conjunctivitis if eyelid oedema or intense itching.
+    - Allergic conjunctivitis: Loratadine 10mg once a day 3 days (Adults)",,
+Complications,Usually self-limiting without complications. Secondary bacterial infections can develop leading to keratitis and blindness.,,
+,,,
+9.4 Foreign Body,,,
+Presentation,"History of sudden feeling of foreign body in eye, redness and discomfort.",,
+Causes,Foreign body such as a piece of wood or dirt in the eye.,,
+Investigations,"Inspection of the eye, including eversion or upper and lower lids.",,
+Diagnosis,Diagnosed by clinical exam along with history.,,
+Management,"Irrigate the eye with clean water or saline (IV lines can be helpful for this).
+If the irrigation is successful, use topical anaesthetic drops moisten a cotton bud and gently sweep the affected area. If successful, consider a week of Ofloxacin 0.3% drops. If unsuccessful refer to hospital depending on circumstances.",,
+Complications,"    - Corneal scratch or abrasion
+    - Infection
+    - Ocular necrosis
+    - Vision loss",,
+,,,
+$Skin,,,
+10.1 Scabies,,,
+Presentation158,"The most common symptoms of scabies, itching and a skin rash, are caused by sensitization (a type of “allergic” reaction) to the proteins and feces of the parasite. Severe itching (pruritus), especially at night, is the earliest and most common symptom of scabies. A pimple-like (papular) itchy (pruritic) “scabies rash” is also common. In this climate itching and rash may affect the whole body or be limited to common sites (between the fingers, wrist,elbow, armpit and penis).",,
+Causes159,"Scabies is an itchy rash caused by the parasitic mite Sarcoptes scabiei.
+
+Risk Factors160 are overcrowding, poverty, poor nutritional status, poor hygiene, children, immunocompromised individuals and elderly. The elderly, and immunocompromised individuals are at particular risk of the crusted variant. They tend to present with clinically atypical lesions and are often misdiagnosed, causing a delay in appropriate treatment and increased risk of a local epidemic.",,
+Investigations161,The diagnosis is largely clinical. A magnifying lens may help in identification of burrows or even occasionally mites. If in doubt the case can be posted with images on SERMO.,,
+"Management161,162","The primary method of treatment for scabies is by topical application of a parasiticidal preparation overnight to the whole body from head to toe. This should be repeated a week later.
+
+Apply treatment to the whole body, including the scalp, neck, face, and ears, and especially between the fingers and toes and under the nails.
+
+First-line: Permethrin 5% dermal cream.
+
+Patients with crusted 'Norwegian' scabies may require two or three applications on consecutive days to ensure that enough penetrates the hyperkeratotic areas to kill all the mites.
+
+Treatment should not be applied after a hot bath (as this increases systemic absorption and removes the drug from its treatment site). If the hands are washed, the liquid or cream must be reapplied.
+
+All members of the household, close contacts, and sexual contacts should be treated simultaneously with the index patient. It is important that all contacts apply treatment on the same day to reduce the risk of re-infestation from an untreated contact. Patients should be advised to avoid close body contact until they and their partner(s) have completed treatment.",,
+Complications161–163,"    - Secondary bacterial infection. Cellulitis, impetigo and abscesses may be the result, and bacterial skin infection can further predispose to invasive infection and sepsis.
+    - Scabies can cause flaring or reactivation of eczema or psoriasis. Those whose immunity is highly sensitive can present with extensive dermatitis or even erythroderma.
+    - Scabies has social stigma and may cause psychological harm with persistent delusions of parasitosis, shame or guilt.",,
+,,,
+,,,
+10.2 Bacterial infection,,,
+10.2.1 Cellulitis,,,
+Presentation164,"“Cellulitis appears as a swollen, red area of skin that feels hot and tender. It can spread rapidly to other parts of the body. Cellulitis isn't usually spread from person to person.
+Skin on lower legs is most commonly affected, though cellulitis can occur anywhere on your body or face.”",,
+Causes165,“The most common causative organisms are Streptococcus or Staphylococcus spp. but they can be caused by a wide range of both aerobic and anaerobic bacteria.”,,
+Investigations166,"Usually the diagnosis is clinical and no investigations are required. If investigations are required, the ones likely to be of benefit will be in a hospital setting.
+The basic vital signs and clinical examination can be utilised to inspect for clinical features of sepsis.",,
+Management,"General measures include rest, elevation of any affected limbs, and analgesia (paracetamol or ibuprofen) 167
+
+For mild-moderate infections, oral antibiotics can be used:
+1st line: Dicloxacillin
+    - Children <40 kg: 12.5 to 25 mg/kg/day divided in 4 doses per day by mild to moderate infection and 25 to 50 mg/kg day for severe infections
+    - Adults: 500 mg 3 times per day 
+
+This is based on the fact that BNF guidelines state that flucloxacillin is first line127. If this is available, please use it. If not, then we often have dicloxacillin available. This is considered interchangeable with flucloxacillin169.
+
+2nd line: Clindamycin
+    - Children >1 month: 8-25 mg/kg per day divided in 3 or 4 doses
+    - Adults: 150-450 mg 4 times per day",,
+"Complications127,170","Complications are uncommon but may include: abscess formation, gangrene, thrombophlebitis/lymphangitis, chronic leg oedema (a late complication which may predispose to further episodes of infection).
+
+Less common complications (occurring in <1%) include: necrotising fasciitis, osteomyelitis, compartment syndrome, acute glomerulonephritis, endocarditis, septicaemia, streptococcal toxic shock syndrome.",,
+,,,
+,,,
+10.2.2 Folliculitis,,,
+Presentation171,"“Folliculitis is a common skin condition in which hair follicles become inflamed. It's usually caused by a bacterial or fungal infection. At first it may look like small red bumps or white-headed pimples around hair follicles — the tiny pockets from which each hair grows. The infection can spread and turn into non healing, crusty sores.
+The condition isn't life-threatening, but it can be itchy, sore and embarrassing. Severe infections can cause permanent hair loss and scarring.”",,
+Causes172,"“Damaged follicles are at risk of infection.
+The most common causes of follicle damage are:
+    - Friction from shaving or tight clothing
+    - Heat and sweat, such as that caused by wearing rubber gloves or waders
+    - Certain skin conditions, such as dermatitis and acne
+    - Injuries to your skin, such as from scrapes or surgical wounds
+    - Coverings on your skin, such as plastic dressings or adhesive tape”",,
+Investigations,The diagnosis is based on history and examination findings.,,
+"Management 172,173","General Measures
+    - Avoid precipitating factors such as inappropriate clothing.
+    - Use separate washing implements and towels from other members of the household.
+
+Pharmacological treatment
+    - Mild, superficial folliculitis may resolve without treatment.
+    - For deeper folliculitis, topical or oral antibiotics are usually required; preferred agents are flucloxacillin (or dicloxacillin), erythromycin or cephalosporins/mupirocin ointment.",,
+,,,
+10.2.3 Impetigo,,,
+Presentation174,"Impetigo is a very common superficial infection of the skin. It can be divided into non-bullous and bullous forms. The non-bullous types represent the majority of cases.
+
+Non-bullous impetigo starts as tiny pustules or vesicles that evolve rapidly into crusted plaques that tend to be under 2 cm in diameter. It usually starts on the face or on the extremities where bites, scratches, burns or trauma have occurred. It spreads rapidly. Little or no surrounding erythema or oedema. Regional lymph nodes are often enlarged.
+Bullous impetigo has a thin roof and tend to rupture spontaneously. They are usually on the face, trunk, extremities, buttocks, or perineal regions. More likely to occur on top of other disease like atopic eczema",,
+Causes175,"Impetigo - In the UK Staphylococcus aureus is the most common organism, Streptococcus pyogenes is the other pathogen involved, and on occasions both organisms can be found together. In warmer climates Streptococcus pyogenes is more prevalent.
+
+Bullous impetigo - Is nearly always caused by Staphylococcus aureus",,
+Investigations,The diagnosis is usually based on history and clinical examination findings.,,
+Management,"General advice176
+“Advise good hygiene measures to prevent spread (also to other people):
+    - Keep the affected area(s) clean.
+    - Wash hands after touching affected area(s).
+    - Avoid sharing of towels and bathwater.
+    - Avoid scratching the affected area. Keep fingernails short and clean.”
+
+Topical therapy
+A Cochrane review found good evidence for efficacy of topical mupirocin and fusidic acid, and that they were as effective as oral antibiotic treatment.177,178.
+We often have triple antibiotic cream available so if neither of the above are available, use this.
+
+Choose oral antibiotics when infection is extensive or resistant to topical treatment. 177–179
+
+First-line:
+    - Flucloxacillin 7 days (we often have dicloxacillin available which is interchangeable with flucloxacillin)
+    - If not available Amoxicillin. 
+Second-line:
+Clarithromycin or erythromycin 1st line: Dicloxacillin or Amoxicillin",,
+Complications180,"Cellulitis, lymphangitis, suppurative lymphadenitis, and staphylococcal scalded skin syndrome may occur occasionally.",,
+,,,
+,,,
+10.3 Fungal Infections,,,
+10.3.1 Dermatophytes,,,
+Presentation181,"“Dermatophytosis (tinea) infections are fungal infections caused by dermatophytes. They tend to grow outwards on skin, producing a ring-like pattern - hence the term 'ringworm'. They are very common here in Panama and affect different parts of the body.”
+
+According to site:
+    - Scalp - tinea capitis.
+    - Feet - tinea pedis.
+    - Hands - tinea manuum.
+    - Nail - tinea unguium (or onychomycosis).
+    - Beard area - tinea barbae.
+    - Groin - tinea cruris.
+    - Body including trunk and arms - tinea corporis.",,
+Causes182,"Infection is limited to the dead layers of skin but encouraged by a damp and warm local environment like her in Panama. The infection can also be transmitted between people, from soil and from animals.",,
+"Differential Diagnosis183,184","Eczema and psoriasis are commonly confused with tinea. Pityriasis versicolor occurs all over the trunk while candida occurs as a flexural rash at extremes of age or in the immunocompromised, those with diabetes or patients on antibiotics.
+
+If in doubt, take a picture (with the patient’s consent) and post the case on SERMO. This opens up the clinical situation to a number of specialists.",,
+Management185,"Pharmacological Treatment
+First-line:
+Clotrimazole 1% cream 2 times per day; continue till 1-2 weeks after the disappearing of the lesions.
+
+For tinea capitis, onychomycosis or if topical treatment has failed or are inappropriate:
+First-line oral treatment:
+Fluconazole at 50-100 mg/day or 150 mg once weekly for 2-4 weeks is used with good results.187
+
+Second-line oral treatment:
+Fluconazol is generally chosen over Griseofulvin. However, Griseofulvin is still the drug of choice in trichophyton infections in children. Terbinafine and itraconazole are not licensed for use in children.188
+
+Griseofulvin:
+    - Adults: 500 mg 2 times per day with persisting infections, reduce dose to 500 mg per day when improving.
+    - Tinea Capitis - Children: 10-15 mg/kg per day divided in 1-4 doses.
+    - Tinea Capitis - Adults: 15-25 mg/kg per day divided in 1-4 doses.
+
+Treatment length depends on tissue:
+    - Tinea Corporis: minimum of 2-4 weeks
+    - Tinea Pedis: minimum of 4-8 weeks
+    - Tinea Capitis: minimum 4-12 weeks
+    - Tinea Unguium: 4-6 months or longer
+
+Always consider combining oral treatment with Clotrimazole 1% cream in this tropical climate.",,
+Complications189,"The main complication is secondary bacterial infection.
+Hair loss is a complication of tinea capitis.",,
+,,,
+10.3.2 Candidiasis,,,
+Presentation190,"Candidiasis often presents with soreness and itching.
+
+Depending on the different forms of cutaneous candidiasis the appearance may vary:
+    - Red, moist skin area, possibly pustules or papules, yellow-white scale on the surface (looks like curds).
+
+There are different forms of cutaneous candidiasis, the most frequent:
+    - Intertrigo (skin fold infection).
+    - Candidal nail infections - chronic paronychia or onychomycosis.
+    - Napkin dermatitis.
+    - Balanitis.
+    - Mucocutaneous candidiasis.
+    - Candidal folliculitis.",,
+Causes,"The following factors increase the likelihood of candidiasis occurring190,191:
+    - Irritated or damaged skin
+    - Patients taking antibiotics
+    - Poorly controlled diabetes
+    - Immunodeficiency e.g. HIV
+    - Menopause
+    - Pregnancy",,
+Investigations,"In our clinical setting, access to investigations is limited. Diagnosis will be clinical based on the patient’s clinical presentation. If you are in doubt, liaise with a Lead Medical Provider. If you are still struggling consider adding the case to SERMO.",,
+Management 190–192,"General measures:
+Avoid occlusion of skin, avoid obesity, keep skin dry, wash with emollients as soap substitutes and dry thoroughly after washing.
+
+Pharmacological treatment:
+Clotrimazole 1% twice per day - Continue until 1 week after lesions have dissapeared
+If there is problematic itch or inflammation, consider adding a mild corticosteroid cream (Hydrocortisone cream) for 7-14 days.
+
+Consider systemic oral treatment with fluconazole 50 mg/day or fluconazole 150 mg/once weekly for 2-4 weeks if: topical treatment is ineffective, there is widespread infection or if the patient is immunocompromised.",,
+Complications193,"Invasive candidiasis can develop. This term encompasses the conditions candidaemia and deep-seated tissue candidiasis. If you suspect either of these conditions, urgent admission to hospital is necessary.",,
+,,,
+10.3.3 Pityriasis Versicolor,,,
+Presentation194,"Macular lesions and patches of altered pigmentation are seen primarily on the trunk.
+These lesions frequently spread to the neck, upper arms and abdomen and can sometimes occur at other sites. The face may be affected in children. There is a superficial scale which is best seen by stretching the affected skin, or scraping the surface.",,
+Causes195,"Pityriasis versicolor is relatively common in hot, humid climates with a estimated prevalence around 30-40%. Most infections occur in normal healthy people but the following factors increase the risk:
+    - Hyperhidrosis or increased physical activity causing sweating.
+    - Occlusive clothes, dressings or ointments.
+    - Immunosuppression or immune deficiency.
+    - Malnutrition.",,
+Investigations,The diagnosis is most often clinical in our setting. Consult with a Lead Medical Provider if in doubt. An alternative option is to post the case on SERMO should you be unsure.,,
+Management196,"Pityriasis versicolor should be treated initially with topical imidazoles - eg, clotrimazole, miconazole, econazole and ketoconazole.
+
+In widespread or resistant cases, prescribe itraconazole 200 mg daily for seven days.
+
+Patients should be advised that it can take several months for the skin colour to return to normal.",,
+"Complications 196,197","Recurrence is very common.
+Hypopigmentation of the skin can persist for months after treatment.",,
+,,,
+10.4 Cutaneous Leishmaniasis,,,
+Presentation,"Leishmaniasis is caused by a protozoan of the genus Leishmania200. The presentation of Leishmaniasis varies according to the species causing the infection and the region in the world where a person is infected. There are 3 main types of Leishmaniasis198,199:
+    - Visceral
+    - Cutaneous
+    - Mucocutaneous
+
+This section will focus on cutaneous Leishmaniasis since this is the type that is mainly present in Panama198. Lesions start mostly on exposed regions of the skin which are easily bitten by sandflies. The lesions start as erythematous patches that change to plaques and ulcers. Unless there is a secondary bacterial infection, the lesions are usually painless. Most patients have limited cutaneous lesions that self-cure within 6-18 months, leaving scarred tissue.",,
+Causes,"‘Scattered cases of cutaneous and mucocutaneous Leishmaniasis occur in rural areas in the entire country, but most cases are reported from western Panama (Bocas del Toro, Cocle, Colon, Chiriqui and Panama Provinces) and from the west-central areas201.’
+
+L. panamensis is responsible for the great majority of the cases, mostly in forested areas from west to east, including Bocas del Toro202. The two-toed sloth is the main reservoir202,203.",,
+Diagnosis,"In cases where Leishmaniasis is suspected, consult with a Lead Medical Provider.
+The diagnosis and treatment of Leishmaniasis can be provided free of charge through MINSA. For the diagnosis of Cutaneous Leishmaniasis, parasitological testing is required204. The number of cases of diagnosed Cutaneous Leishmaniasis from 2009 is represented in the diagram below205:
+
+** TWO IMAGES HERE !!**",,
+Management,Standard hospital treatment in Panama is a course of IV Pentavalent Antimony for 28 days206. Many local treatments exist; for example using battery acid to treat lesions to various effect. As such it is important that patients are referred on for specialist care for optimal treatment.,,
+Complications,"Almost 5% of patients develop Mucocutaneous Leishmaniasis characterised by mucous membrane involvement 207.
+
+Other complications of Cutaneous Leishmaniasis include207,208: bleeding, superimiposed infections due to immunodeficiency and disfigurement.",,
+,,,
+10.5 Wound Care,,,
+Information,"Patients knowledge of wound care is generally poor in this area. Initially assess the wound and the need for closure. Assess206,209,210 the mode of injury, time of injury, type of wound, location (proximity to major vessels and nerves), shape of the wound, depth and direction. Also check to for the presence of a potential foreign body and for underlying structural injury.
+
+The next step is to achieve haemostasis211. This can be spontaneous but may require pressure, elevation or a tourniquet.
+
+Please be aware of the fact that often the patient will be in a lot of pain! Analgesia is therefore essential.
+
+In case needed use lidocaine as a local anaesthetic211,212 (up to 3 mg/kg. NB: a 1% solution contains 10 mg/mL). E.g. If a patient weighs 70 kg, use no more than 210mg. This would be 21ml of lidocaine 1%.
+
+The next step is to clean the area extensively and remove debris. Use saline 0.9% where possible213. If this is not available, use tap water. Tap water has been shown to have as low, or lower, infection rates as proprietary antiseptic solutions214.
+
+Wound Closure - The timing of wound closure will be based on your assessment of the wound213,215:
+    - Primary closure: immediate closure can be used for simple wounds <12 hours old with opposable edges. Delayed primary closure: if there is high risk of infection, give prophylactic antibiotics and close after a few days provided there is no infection. This is something that can be done on a follow up day if planned appropriately.
+    - Secondary closure: allow the wound to close by itself if a bite (except on the face) or it has separated edges or infection. This may result in increased scarring.
+
+Type of Closure213,215,216
+    - If primary closure is decided upon, generally we have 3 options available: steristrips, tissue adhesives and/or sutures. Bear in mind that sutures will need to be removed. Often this can be problematic in our setting so if this option is chosen an appropriate removal plan is essential.
+    - Steristrips can be used for small wounds or to allow for drainage where needed.
+    - For small superficial lacerations, consider the use of tissue adhesives217 if available.
+    - If sutures are used, advise regarding appropriate follow up. Teach patient or carer to remove sutures in a hygienic way if follow up is not possible. Another option is to consult with a Lead Medical Provider or the Clinic Manager. In some clinic locations there are health workers who are trained to remove sutures. Ensuring that these health workers follow up the wound care after we’re gone can be useful.
+
+The following guidelines provide a rough idea of when sutures should be removed206,209:
+    - Face: 4-5 days
+    - Neck: 7 days
+    - Arms and back of hands: 7 days
+    - Scalp, chest, abdomen or back: 7- 10 days
+    - Legs and top of feet: 10 days
+    - Palms, soles, fingers or toes: 12-14 days
+    - Overlying a joint: 12-14 days
+
+Dressings218
+    - “The first layer in contact with the wound surface should be non-adherent - eg, a lightly lubricated gauze with interstices.
+    - Occlusive dressings can lead to maceration with retained fluid.
+    - The next layer should be absorbent material to attract any wound exudate.
+    - Finally, soft gauze rolls tape can be used to secure the initial materials in place.
+    - Dressings may not be necessary if the wound is dry and extra protection is not required.”
+
+Anti-infective prophylaxis
+    - Generally speaking the risk of infection in our environment is relatively high. Therefore we advise a lower threshold for use of antibiotics.
+    - Animal Bites127 should be treated with co-amoxiclav alone (or doxycycline + metronidazole if penicillin-allergic or if co-amoxiclav is unavailable).
+
+    - For other cuts/wounds consider the use of dicloxacillin/penicillin to cover for staphylococcal/streptococcal species127,219.
+
+    - Whilst rabies is relatively rare, there have been some cases reported in Panama220. For all dirty wounds (e.g. animal bites or those involving metals), refer the patient to hospital for tetanus vaccination127.",,
+,,,
+$Maternal Health,,,
+11.1 Antenatal Care,,,
+Information,"All pregnant women
+    - Consider confirming pregnancy with pregnancy test
+    - Calculate EDD
+    - Gather obstetric history
+    - Establish planned delivery location
+
+Please use table below as a guide for patients presenting to clinic. Asses for high risk pregnancy and please consider referral if 
+    - Age <14 year
+    - Transverse lie or malpresentation within 1 months of expected delivery
+    - Multiple pregnancy (e.g. twins)
+    - Complication during current pregnancy e.g. vaginal bleeding
+    - Prior delivery by caesarean section or third degree tear221",,
+** TABLE **,** TABLE **,,
+,,,
+11.2 Asymptomatic bacteriuria in pregnant women,,,
+Presentation,Asymptomatic.,,
+Causes,Same as in non pregnant women. Please see section 5.1.,,
+Investigations,Same as in non pregnant women. Please see section 5.1.,,
+Diagnosis,"All guidelines available online advise that a urine sample, suspicious of infection, should be sent for culture. Floating Doctors do not have the facility to process a urine culture. Following an experienced Obstetric and Gynecology Doctor, who volunteers with us we advised the following:
+    - Positive for nitrates - treat as UTI
+    - Positive for leukocytes alone - do not treat
+    - Positive for leukocytes and haematuria - treat as UTI",,
+Management,Please see section 5.1,,
+Complications,Please see section 5.1,,
+,,,
+11.3 Acute cystitis infection in pregnant women,,,
+Presentation,The typical symptoms of acute cystitis in the pregnant woman are the same as in nonpregnant women. See section 5.1.,,
+Causes,Same as in non pregnant women. Please see section 5.1.,,
+Investigations,Same as in non pregnant women. Please see section 5.1.,,
+Diagnosis,Same as in non pregnant women. Please see section 5.1.,,
+Management,Amoxicillin 500mg TDS for 3-7 days,,
+Complications,"Untreated bacteriuria has been associated with an increased risk of:
+    - Preterm birth
+    - Low birth weight
+    - Perinatal mortality
+    - Preeclampsia223",,
+,,,
+11.4 Preeclampsia,,,
+Definition,Systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg on two occasions at least four hours apart after 20 weeks of gestation in a previously normotensive patient.,,
+Presentation,"    - Persistent and/or severe headache
+    - Visual abnormalities (scotomata, photophobia, blurred vision, or temporary blindness [rare])
+    - Upper abdominal or epigastric pain
+    - Altered mental status
+    - Dyspnea, retrosternal chest pain",,
+Investigations,Urine dipstick,,
+Diagnosis,"If systolic blood pressure is ≥160 mmHg or diastolic blood pressure is ≥110 mmHg, confirmation within minutes is sufficient
+and
+Dipstick showing proteinuria ≥1+
+or
+New-onset hypertension with symptoms of end organ failure (with or without proteinuria).",,
+Management,"Patient should be referred to hospital. Labetalol (oral or IV), Nifedipine or Hydralazine (IV) are the treatments of choice. Avoid ACE-inhibitors. Magnesium sulfate should be considered when there is concern about the risk of eclampsia.",,
+Complications,"Eclampsia224,225",,
+,,,
+,,,
+11.5 Gestational Diabetes,,,
+Presentation,Gestational diabetes mellitus (GDM) is any degree of glucose intolerance with its onset (or first diagnosis) during pregnancy and usually resolving shortly after delivery.,,
+Risk Factors,"Increasing age, certain ethnic groups (Including Hispanic/Latino Americans), high BMI, smoking, short interval between pregnancies, previous unexplained stillbirth, previous macrosomia,family history of type 2 diabetes or GDM.",,
+Investigations,Test glucose. Urine test: Glycosuria of 2+ or above on one occasion or of 1+ or above on two or more occasions may indicate undiagnosed GDM.,,
+Diagnosis,"Diagnose gestational diabetes if the woman has either:
+a fasting plasma glucose level of 5.6 mmol/litre or 100.8 mg/dL or above or
+a 2‑hour plasma glucose level of 7.8 mmol/litre or 140.4 mg/dL or above.",,
+Management,"Patient should be referred to hospital, given dietary advice and advised of complications.",,
+Complications,"Macrosomia, large for gestational age, perinatal mortality, preeclampsia, delivery by caesarean section, shoulder dystocia, birth injuries and hypoglycaemia.
+
+Long-term adverse health outcomes in infants born to mothers with GDM may include: Sustained impairment of glucose tolerance, subsequent obesity, impaired intellectual achievement 227,228.",,
+,,,
+11.6 Anemia in Pregnancy,,,
+Presentation,"Asymptomatic,fatigue, dyspnoea, dizziness.",,
+Causes,Iron deficient anemia accounts for the majority of cases of anaemia that are identified in pregnancy.,,
+Investigations,Test for Hemoglobin using the HemoCue.,,
+Diagnosis,"In the first and third trimesters, the Hb threshold for diagnosing anaemia is 110 g/L (11g/dL); in the second trimester, the threshold is 105 g/L (10.5 g/dL).",,
+Management,"Give dietary advice (examples of foods available to the Ngäbe communities which are high in iron, beans, pifa fruit, eggs, red meat). Treat with Iron Supplements. Daily elemental iron should be 120 mg per day until her Hb concentration rises to normal Supplementation should continue for at least three months and at least six weeks postpartum and should aim to restore iron stores.
+
+The equivalent of 60 mg of elemental iron is 300 mg ferrous sulfate heptahydrate, 180 mg ferrous fumarate or 500 mg of ferrous gluconate.",,
+Complications,"Maternal death, fetal death, premature delivery, low birth-weight babies, cardiac failure, subsequent developmental problems, more susceptibility to infection 229 230.",,
+,,,
+,,,
+11.7 Vaginal bleeding in pregnancy,,,
+Presentation,Light versus heavy.,,
+Causes,"1st trimester: Ectopic pregnancy, miscarriage (threatened, inevitable, incomplete, complete), implantation of the pregnancy, cervical, vaginal, or uterine pathology.
+
+2nd and 3rd trimester: Bloody show associated with labor, miscarriage, placenta previa, abruptio placenta,uterine rupture (rare), vasa previa (rare).
+After 20 weeks: Placenta previa (20%), abruptio placenta (30%), uterine rupture (rare), vasa previa (rare).",,
+Investigation,"    - Abdominal palpation
+    - Abdominal ultrasound or doppler if abdominal ultrasound not available.
+    - Please AVOID digital examination and speculum examination if placenta previa is in differential.",,
+Management,Patient should be stabilised if necessary and referred to hospital.,,
+,,,
+,,,
+11.8 Family Planning,,,
+Options,Patients seeking contraception should be counseled on the various options available and mechanisms in which they work. Generally Floating Doctors carries condoms and Depo Provera in IM injection form.,,
+Depo Provera,"Depo Provera is an injectable, progestin-only contraceptive that provides highly effective, private, relatively long-acting (three months), reversible contraception.",,
+Investigations,"A urine pregnancy test should be carried out prior to giving the Depo injection, if there is no documentation stating the patient has previously received it within the last 3 months.",,
+Management,"The first depo provera injection can be given at any time as long as pregnancy has been excluded. Back-up contraception, such as barrier contraception should be in most cases advised for seven days.
+
+Patient should be assessed for contraindications to include standard contraindications to hormone use and contraindications specific to depo provera. Contraindications specific to depo provera are listed below:
+    - Current use of aminoglutethimide (usually for the treatment of Cushing's syndrome) because aminoglutethimide may increase metabolism of progestins.
+    - Pregnancy planned within the next year because a delay in return in fertility occurs.
+    - Long-term use of corticosteroid therapy in women with a history of, or risk factors for, nontraumatic fracture.
+
+Patient should be advised of risk of pregnancy (0.2 percent).",,
+Complications,"Patient should be advised of main side effects:
+    - Increase in unscheduled bleeding or no bleeding.
+    - Possible increased weight gain.
+    - Decrease in bone density that is usually.
+    - Small risk of severe allergic reaction.
+    - Return to fertility is not immediate226",,

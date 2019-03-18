@@ -1,7 +1,7 @@
 $Introduction,,,
 Guideline Use,"The following guidelines have been written while taking into account the local population and resources most readily available to our organization. Whenever possible, the guidelines should be followed as written. However, patients should always be treated individually. At time, it may be appropriate to stray from these guidelines for individual patients or if specific resources are low.
 
-The following guidelines will cover the treatment of the most common presentations that will be seen in our clinics. As you will discover, practicing medicine in a remote setting requires a different approach. The following guidelines were written with evidence based medicine, as well as with consideration of what is practically available and possible in our setting. Please discuss patients with our Lead Medical Providers, who have experience treating patients in our unique setting. Even relatively common conditions may be treated differently in our setting for a variety of reasons. The Lead Medical Providers are there to ensure that the treatment each of our patients receives, meets Floating Doctors standards. Treatment plans may differ between the communities also, depending on the local resources and closest health care facilities.",,
+The following guidelines will cover the treatment of the most common presentations that will be seen in our clinics. As you will discover, practicing medicine in a remote setting requires a different approach. The following guidelines were written with evidence based medicine, as well as with consideration of what is practically available and possible in our setting. Please discuss patients with our Lead Medical Providers, who have experience treating patients in our unique setting. Even relatively common conditions may be treated differently in our setting for a variety of reasons. The Lead Medical Providers are there to ensure that the treatment each of our patients receives, meets Floating Doctors standards. Treatment plans may differ between the communities also, depending on the local resources and closest health care facilities.", , 
 General Treatment Principles,"We ask that you:
 
     - Follow the tratment guidelines for each condition to determine the first line treatment determined through careful consideration of this population and our resources.
@@ -317,9 +317,9 @@ If children <5 are (severely) malnourished please consult a Lead Medical Provide
 - Poor quality of life”",,
 ,,,
 $Respiratory,,,
-Information,"The normal values for respiratory rate and heart rate for age can be found above.
+Charts,"The normal values for respiratory rate and heart rate for age can be found above.
 
-Signs of respiratory distress in children 45,46:  Inability to feed to due shortness of breath, tracheal tug, subcostal recession, chest wall indrawing, nasal flare, grunting, cyanosis.",respiratory_information1,respiratory_information2
+Signs of respiratory distress in children 45,46:  Inability to feed to due shortness of breath, tracheal tug, subcostal recession, chest wall indrawing, nasal flare, grunting, cyanosis.",respiratory_information,
 3.1 Upper Respiratory Tract Infection,,,
 Presentations,"Common signs/symptoms include47
     - Nasal discharge/ obstruction
@@ -718,7 +718,6 @@ Pharmacological treatment
 Complications,"Rectal bleeding due to hemorrhoids or anal fissures, cramping abdominal pain, fecal impaction, rectal prolapse.",,
 ,,,
 $Genitourinary,,,
-,,,
 5.1 Acute cystitis infection in pregnant women,,,
 Presentation,"Cystitis is an infection of the bladder and urethra that affects mainly females. Clinical manifestations of cystitis consist of dysuria, frequency, urgency, suprapubic pain, and/or hematuria.",,
 Causes,"The pathogenesis of urinary tract infection begins with colonization of the vaginal introitus by uropathogens from the fecal flora, followed by ascension via the urethra into the bladder.
@@ -734,8 +733,6 @@ Management,"Pharmacological Treatment for Uncomplicated UTI
     - Amoxicillin 500mg three times daily for 5 days.
     - Cotrimoxazole 160/800 mg tablet twice daily for 3 days. 87",,
 Complications,"Patients with acute cystitis persistent symptoms after 48 to 72 hours of appropriate antimicrobial therapy or recurrent symptoms within a few weeks of treatment should have evaluation for complicated infection. A complicated urinary tract infection, is associated with an underlying condition that increases the risk of failing therapy. This may include Diabetes, Pregnancy, Acute or Chronic Kidney disease. Empiric treatment should be initiated with another antimicrobial agent. 87 88",,
-,,,
-,,,
 ,,,
 5.2 Acute pyelonephritis,,,
 "Presentation 83–86,89","Onset is usually rapid with symptoms appearing over a day or two. There is unilateral or bilateral loin pain, suprapubic pain or back pain. Fever is variable but can be high enough to produce rigors. Malaise, nausea, vomiting, anorexia and occasionally diarrhoea occur. There may or may not be accompanying lower urinary tract symptoms with frequency, dysuria, gross haematuria or hesitancy. The patient looks ill and there is commonly pain on firm palpation of one or both kidneys and moderate suprapubic tenderness without guarding.
@@ -786,8 +783,6 @@ Metronidazole 2 gram stat 97
 Neisseria gonorrhoeae:
     - Ceftriaxone 250 mg intramuscular in a single dose for treatment of gonococcal infection PLUS Azithromycin (1 gram stat) for possible additional activity against N. gonorrhoeae and for treatment of potential chlamydia coinfection98,99",,
 Complications,"Untreated, some vaginal infections can spread to the upper reproductive tract and cause more serious illness and, in the long term, infertility100.",,
-,,,
-,,,
 ,,,
 5.4 Lower abdominal pain in women,,,
 Presentation,Lower abdominal pain,,
